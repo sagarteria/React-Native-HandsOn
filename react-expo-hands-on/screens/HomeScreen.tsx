@@ -14,6 +14,10 @@ const HomeScreen = ({ navigation }) => {
       <Button title="Check Weather" onPress={() => navigation.navigate('Weather')} />
       <View style={{ height: 10 }} />
       <Button title="View Daily News" onPress={() => navigation.navigate('News')} />
+      <View style={{ height: 10 }} />
+      <Button title="Take a Photo" onPress={() => navigation.navigate('PhotoCapture')} />
+      <View style={{ height: 10 }} />
+      <Button title="Take a Photo (ExplicitPermission)" onPress={() => navigation.navigate('ExplicitPermission')} />
     </View>
   );
 };

@@ -8,6 +8,8 @@ import ContactScreen from './screens/ContactScreen';
 import RegistrationScreen from './screens/RegistrationScreen';
 import NewsScreen from './screens/NewsScreen';
 import WeatherScreen from './screens/WeatherScreen';
+import PhotoCaptureScreen from './screens/PhotoCaptureScreen';
+import ExplicitPermissionScreen from './screens/ExplicitPermissionScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -21,6 +23,8 @@ export default function App() {
        <Stack.Screen name="Register" component={RegistrationScreen} />
        <Stack.Screen name="News" component={NewsScreen} />
        <Stack.Screen name="Weather" component={WeatherScreen} />
+       <Stack.Screen name="PhotoCapture" component={PhotoCaptureScreen} />
+       <Stack.Screen name="ExplicitPermission" component={ExplicitPermissionScreen} />
      </Stack.Navigator>
    </NavigationContainer>
  );
