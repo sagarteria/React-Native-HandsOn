@@ -5,19 +5,40 @@ const HomeScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Welcome to Home Screen</Text>
-      <Button title="Go to About" onPress={() => navigation.navigate('About')} />
+      <Button title="Go to About" onPress={() => {
+        console.log("Navigating to About");
+        navigation.navigate('About')
+      }} />
       <View style={{ height: 10 }} />
-      <Button title="Go to Contact" onPress={() => navigation.navigate('Contact')} />
+      <Button title="Go to Contact" onPress={() => {
+        console.log("Navigating to Contact Page");
+        navigation.navigate('Contact')
+      }} />
       <View style={{ height: 10 }} />
-      <Button title="Go to Registration" onPress={() => navigation.navigate('Register')} />
+      <Button title="Go to Registration" onPress={() => {
+        console.log("Navigating to Registration Page");
+        navigation.navigate('Register')
+      }} />
       <View style={{ height: 10 }} />
-      <Button title="Check Weather" onPress={() => navigation.navigate('Weather')} />
+      <Button title="Check Weather" onPress={() => {
+        console.log("Navigating to Weather Page");
+        navigation.navigate('Weather')
+      }} />
       <View style={{ height: 10 }} />
-      <Button title="View Daily News" onPress={() => navigation.navigate('News')} />
+      <Button title="View Daily News" onPress={() => {
+        console.log("Navigating to News Page");
+        navigation.navigate('News')
+      }} />
       <View style={{ height: 10 }} />
-      <Button title="Take a Photo" onPress={() => navigation.navigate('PhotoCapture')} />
+      <Button title="Take a Photo" onPress={() => {
+        console.log("Navigating to Photo Capture Page");
+        navigation.navigate('PhotoCapture')
+      }} />
       <View style={{ height: 10 }} />
-      <Button title="Take a Photo (ExplicitPermission)" onPress={() => navigation.navigate('ExplicitPermission')} />
+      <Button title="Take a Photo (ExplicitPermission)" onPress={() => {
+        console.log("Navigating to Explicit Permission Page");
+        navigation.navigate('ExplicitPermission')
+      }} />
     </View>
   );
 };
