@@ -2,7 +2,7 @@ name: Expo EAS Build (Android)
 
 on:
   push:
-    branches: [ hands-on-module-9 ]
+    branches: [ main ]
 
 jobs:
   eas-build:
