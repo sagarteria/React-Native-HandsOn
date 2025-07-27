@@ -6,6 +6,8 @@ import HomeScreen from './screens/HomeScreen';
 import AboutScreen from './screens/AboutScreen';
 import ContactScreen from './screens/ContactScreen';
 import RegistrationScreen from './screens/RegistrationScreen';
+import NewsScreen from './screens/NewsScreen';
+import WeatherScreen from './screens/WeatherScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -17,6 +19,8 @@ export default function App() {
        <Stack.Screen name="About" component={AboutScreen} />
        <Stack.Screen name="Contact" component={ContactScreen} />
        <Stack.Screen name="Register" component={RegistrationScreen} />
+       <Stack.Screen name="News" component={NewsScreen} />
+       <Stack.Screen name="Weather" component={WeatherScreen} />
      </Stack.Navigator>
    </NavigationContainer>
  );

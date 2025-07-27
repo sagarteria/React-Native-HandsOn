@@ -10,7 +10,10 @@ const HomeScreen = ({ navigation }) => {
       <Button title="Go to Contact" onPress={() => navigation.navigate('Contact')} />
       <View style={{ height: 10 }} />
       <Button title="Go to Registration" onPress={() => navigation.navigate('Register')} />
-
+      <View style={{ height: 10 }} />
+      <Button title="Check Weather" onPress={() => navigation.navigate('Weather')} />
+      <View style={{ height: 10 }} />
+      <Button title="View Daily News" onPress={() => navigation.navigate('News')} />
     </View>
   );
 };
