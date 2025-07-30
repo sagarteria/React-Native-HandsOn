@@ -105,7 +105,7 @@ Topics & Goals:
         ○ Use refs and forward refs to access and manipulate DOM nodes
         ○ Use useImperativeHandle to customize instance values exposed to parent components
     • API Calling & Data Fetching:
-        ○ Fetch data from APIs using fetch/axios
+        ○ Fetch data from APIs using fetch or Axios (in detail)
         ○ Use useEffect for data fetching on mount
         ○ Handle loading and error states
         ○ Use async/await for asynchronous operations
@@ -116,7 +116,7 @@ Topics & Goals:
         ○ Learn form handling libraries like Formik or React Hook Form
         ○ Sharing events and data between components
     • Routing:
-        ○ Navigate across views/pages using react-router-dom
+        ○ Navigate across views/pages using React Router v6
         ○ Understand dynamic routing and route parameters
         ○ Learn about nested routes and route guards
         ○ Single Page Application (SPA) navigation and history
@@ -125,7 +125,7 @@ Topics & Goals:
         ○ Explore CSS-in-JS libraries like Emotion or Styled Components
         ○ Learn about CSS modules and their benefits
         ○ Use Sass for advanced styling
-        ○ Material-UI Framework: Leverage Material-UI for pre-designed components and consistent theming
+        ○ Material-UI Framework: Leverage Material-UI for pre-designed components and consistent theming (in detail)
     • Performance Optimization (Intro):
         ○ Understand the basics of React.memo for optimizing component rendering (details in Advanced Track)
 
@@ -163,6 +163,18 @@ Topics & Goals:
         ○ Implement code splitting using React.lazy and Suspense for dynamic imports
         ○ Implement lazy loading for components and assets
         ○ Explore techniques for reducing re-renders
+    • Redux Toolkit:
+        ○ Use Redux Toolkit for simplified Redux state management
+    • GraphQL:
+        ○ Integrate React with GraphQL APIs for efficient data querying
+    • Firebase:
+        ○ Integrate React applications with third-party backends such as Firebase for authentication and real-time databases
+    • Webpack & Babel:
+        ○ Understand manual React project setup using Webpack and Babel for custom configurations
+    • TypeScript:
+        ○ Use TypeScript with React for static type checking, including typing props, state, and components
+    • Animations:
+        ○ Add animations using libraries like Framer Motion or React Spring
     • Testing (Jest & RTL): Write robust unit and integration tests
         ○ Learn the basics of Jest and React Testing Library
         ○ Write test cases for components, hooks, and Redux
@@ -186,6 +198,7 @@ Topics & Goals:
         ○ Learn the steps for deploying React applications
         ○ Understand CI/CD pipelines for automated deployment
         ○ Use environment variables for configuration and secrets
+        ○ Deploy React apps using Netlify, Vercel, GitHub Pages, or Heroku
         ○ Explore deployment strategies for different hosting platforms
 
 **Practice Assignments:**
