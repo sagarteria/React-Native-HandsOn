@@ -39,7 +39,40 @@ This course is designed to ramp up new employees (technical, non-technical, or b
 
 ## Section 1: Getting Started with React
 
+
 Objective: Equip learners with a solid development environment and foundational knowledge to begin working with React.
+
+Essential Web Fundamentals: Brief introduction for those new to web development
+
+Overview of Essential Web Fundamentals:
+    • HTML (HyperText Markup Language):
+        ○ Structure and semantics of web pages
+        ○ Common tags and attributes
+        ○ Forms and input elements
+        ○ Semantic tags (header, nav, main, footer)
+        ○ Tables for data display
+        ○ Embedding media (images, video, audio)
+        ○ Accessibility basics (alt text, ARIA attributes)
+    • CSS (Cascading Style Sheets):
+        ○ Styling basics (selectors, properties, values)
+        ○ Box model and layout techniques
+        ○ Responsive design principles
+        ○ Flexbox and Grid for layout
+        ○ CSS transitions and basic animations
+        ○ CSS variables
+        ○ Media queries for responsiveness
+        ○ Specificity and cascade
+    • JavaScript:
+        ○ Variables, data types, and operators
+        ○ Functions, loops, and conditionals
+        ○ Arrays and objects
+        ○ JSON basics
+        ○ DOM manipulation and event handling
+        ○ ES6+ features (let/const, arrow functions, template literals)
+        ○ Event listeners
+        ○ Scope and hoisting
+        ○ Basic error handling (try/catch)
+        ○ Basic debugging (console.log)
 
 Key Focus:
     • What is React? Introduction to React JS and its core philosophy
@@ -51,21 +84,6 @@ Key Focus:
     • React DevTools: Inspecting and debugging React apps
     • Build a “Hello React” starter app to validate setup
     • Single Page Application (SPA) concept: How React apps differ from traditional web apps
-    • Prerequisite Knowledge: Basic understanding of HTML, CSS, and JavaScript
-
-Outline for Prerequisite Knowledge:
-    • HTML:
-        ○ Structure and semantics of web pages
-        ○ Common tags and attributes
-        ○ Forms and input elements
-    • CSS:
-        ○ Styling basics (selectors, properties, values)
-        ○ Box model and layout techniques
-        ○ Responsive design principles
-    • JavaScript:
-        ○ Variables, data types, and operators
-        ○ Functions, loops, and conditionals
-        ○ DOM manipulation and event handling
 
 **Practice Assignment:**
 - Set up your environment and create a "Hello React" app using Create React App or Vite. Share a screenshot of your running app.
