@@ -35,16 +35,24 @@ This course is designed to ramp up new employees (technical, non-technical, or b
 5. Complete practice assignments and capstone project
 6. (Optional) Take a certification course
 
----
+
 
 ## Section 1: Getting Started with React
 
 Objective: Equip learners with a solid development environment and foundational knowledge to begin working with React.
+
 Key Focus:
+    • What is React? Introduction to React JS and its core philosophy
+    • Virtual DOM: How React efficiently updates the UI
+    • JavaScript vs JSX: Understanding the difference and why JSX is used
     • Install Node.js, npm, and VS Code
-    • Understand project scaffolding with Create React App/Vite
+    • NPM & package.json: Managing dependencies and scripts
+    • Project scaffolding with Create React App or Vite
+    • React DevTools: Inspecting and debugging React apps
     • Build a “Hello React” starter app to validate setup
+    • Single Page Application (SPA) concept: How React apps differ from traditional web apps
     • Prerequisite Knowledge: Basic understanding of HTML, CSS, and JavaScript
+
 Outline for Prerequisite Knowledge:
     • HTML:
         ○ Structure and semantics of web pages
@@ -61,6 +69,7 @@ Outline for Prerequisite Knowledge:
 
 **Practice Assignment:**
 - Set up your environment and create a "Hello React" app using Create React App or Vite. Share a screenshot of your running app.
+- Open your app in React DevTools and inspect the component tree.
 
 
 ## Section 2: Foundation Track
@@ -75,6 +84,10 @@ Topics & Goals:
         ○ Understand the difference between functional and class components
         ○ Learn best practices for component structure and naming conventions
         ○ Understand basic folder/project structure for React apps
+        ○ Containers vs Presentational Components: Understand separation of concerns
+        ○ Use React Fragments to group elements without extra DOM nodes
+        ○ JS Expressions in JSX: Embedding JavaScript logic in UI
+        ○ Default input values in forms and components
     • State & Props:
         ○ Manage component state effectively
         ○ Pass data between components using props
@@ -82,12 +95,15 @@ Topics & Goals:
         ○ Use default props and destructuring
     • List & Conditional Rendering:
         ○ Render lists of components using map
-        ○ Understand the importance of keys in lists
+        ○ Understand the importance of keys in lists and why not to use index as key unless necessary
         ○ Implement conditional rendering (ternary, &&, etc.)
     • Hooks (useState, useEffect, useRef):
+        ○ Introduction to React component lifecycle (with hooks)
         ○ Handle component lifecycles and local state
         ○ Explore additional hooks like useContext, useReducer, and useRef
         ○ Learn when and how to use custom hooks
+        ○ Use refs and forward refs to access and manipulate DOM nodes
+        ○ Use useImperativeHandle to customize instance values exposed to parent components
     • API Calling & Data Fetching:
         ○ Fetch data from APIs using fetch/axios
         ○ Use useEffect for data fetching on mount
@@ -98,10 +114,12 @@ Topics & Goals:
         ○ Implement user interactions and validate inputs
         ○ Understand controlled vs uncontrolled components
         ○ Learn form handling libraries like Formik or React Hook Form
+        ○ Sharing events and data between components
     • Routing:
         ○ Navigate across views/pages using react-router-dom
         ○ Understand dynamic routing and route parameters
         ○ Learn about nested routes and route guards
+        ○ Single Page Application (SPA) navigation and history
     • Styling:
         ○ Apply styles using multiple approaches for clean design
         ○ Explore CSS-in-JS libraries like Emotion or Styled Components
@@ -110,12 +128,16 @@ Topics & Goals:
         ○ Material-UI Framework: Leverage Material-UI for pre-designed components and consistent theming
     • Performance Optimization (Intro):
         ○ Understand the basics of React.memo for optimizing component rendering (details in Advanced Track)
+
     • Redux/Context API:
         ○ Manage global state and structure application flow
+        ○ Understand prop drilling and strategies to avoid it (e.g., Context API)
+        ○ Use createContext, Provider, and Consumer for context management
     • Type Checking:
         ○ Use PropTypes or TypeScript for type safety
     • Error Handling:
-        ○ Understand and use Error Boundaries for catching errors in components
+        ○ Understand and use Error Boundaries for catching errors in components (including getDerivedStateFromError)
+        ○ Use React.StrictMode to identify unsafe lifecycle methods and potential issues
     • Accessibility (a11y):
         ○ Learn and apply basic accessibility practices in React apps
 
@@ -136,20 +158,34 @@ Topics & Goals:
         ○ Learn how to create and use custom hooks effectively
         ○ Explore real-world examples of custom hooks
     • Performance Optimization: Use memoization and lazy loading to speed up rendering
-        ○ Understand React.memo and useMemo for optimizing component rendering
+        ○ Understand React.memo and useMemo for optimizing component rendering, including custom comparison functions
+        ○ Optimize performance using useCallback and useMemo hooks
+        ○ Implement code splitting using React.lazy and Suspense for dynamic imports
         ○ Implement lazy loading for components and assets
         ○ Explore techniques for reducing re-renders
     • Testing (Jest & RTL): Write robust unit and integration tests
         ○ Learn the basics of Jest and React Testing Library
         ○ Write test cases for components, hooks, and Redux
         ○ Understand mocking and testing asynchronous code
+        ○ (Optional) Use Enzyme for testing legacy class components
     • Server-Side Rendering (SSR): Understand how Next.js improves SEO and performance
         ○ Learn the basics of SSR and its benefits
         ○ Explore Next.js features like static site generation (SSG) and incremental static regeneration (ISR)
         ○ Implement SSR in a sample project
+    • Animations: Basic introduction to adding animations in React (CSS transitions, libraries like Framer Motion)
+    • Portals: Render components outside the main DOM hierarchy using React Portals
+    • Higher-Order Components (HOC): Implement HOCs for code reuse and abstraction
+    • Render Props: Use the render props pattern for sharing code between components
+    • PureComponent: Use React.PureComponent for optimizing class-based components
+    • Portals: Render components outside the main DOM hierarchy using React Portals
+    • Higher-Order Components (HOC): Implement HOCs for code reuse and abstraction
+    • Render Props: Use the render props pattern for sharing code between components
+    • PureComponent: Use React.PureComponent for optimizing class-based components
+    • StrictMode: Use React.StrictMode to identify unsafe lifecycle methods and potential issues
     • Deployment: Host projects confidently using Netlify, Vercel or GitHub Pages
         ○ Learn the steps for deploying React applications
         ○ Understand CI/CD pipelines for automated deployment
+        ○ Use environment variables for configuration and secrets
         ○ Explore deployment strategies for different hosting platforms
 
 **Practice Assignments:**
