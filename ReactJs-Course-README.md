@@ -257,8 +257,8 @@ Here are the latest, high-quality React training videos (2024-2025):
 ## Section 5: Internet Resources
 
 - [React Official Docs](https://react.dev/) — The official documentation for React.js.
-- [React JS Course Syllabus For Beginners and Advanced (GeeksforGeeks)](https://www.geeksforgeeks.org/reactjs-tutorials/) — Comprehensive tutorials and syllabus.
 - [GeeksforGeeks React JS Course](https://www.geeksforgeeks.org/reactjs-tutorials/) — Beginner to advanced React tutorials.
+- [Learn React.JS in an interactive environment](https://react-tutorial.app) — Learn modern React from scratch, and practice in an intuitive environment.
 - [GitHub Final Year Projects Repository](https://github.com/topics/reactjs-projects) — Real-world React project examples.
 
 
