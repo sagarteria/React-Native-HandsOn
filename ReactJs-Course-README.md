@@ -250,7 +250,7 @@ Topics & Goals:
 
 Here are the latest, high-quality React training videos (2024-2025):
 
-- [React.js Full Course 2025 | Beginner to Advanced (YouTube - freeCodeCamp)](https://www.youtube.com/watch?v=8T8N7E4h8ZY) — Comprehensive, up-to-date course covering fundamentals, hooks, context, Redux, and deployment.
+- [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://www.youtube.com/watch?v=dCLhUialKPQ) — Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
 - [React 18 Crash Course (2025) (YouTube - Traversy Media)](https://www.youtube.com/watch?v=SqcY0GlETPk) — Modern React with hooks, context, and functional components.
 - [React Redux Toolkit Tutorial (2025) (YouTube - Codevolution)](https://www.youtube.com/watch?v=9zySeP5vH9c) — Step-by-step Redux Toolkit integration in React apps.
 - [React Project Tutorial: Build a Real-World App (2024) (YouTube - JavaScript Mastery)](https://www.youtube.com/watch?v=F627pKNUCVQ) — Hands-on project-based learning with modern React.
