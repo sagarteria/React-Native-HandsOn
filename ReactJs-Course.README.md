@@ -130,6 +130,5 @@ Training Videos
 3. React Tutorial for Beginners
 4. Learn React JS - Full Beginner’s Tutorial & Practice Projects 8 months ago 
 5. React JS Crash Course 4 years ago
-6. React JS Full Course 2024 1 year ago
-    
+6. React JS Full Course 2024 1 year ago 
     
