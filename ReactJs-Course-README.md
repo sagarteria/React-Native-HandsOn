@@ -259,7 +259,7 @@ Here are the latest, high-quality React training videos (2024-2025):
 - [React Official Docs](https://react.dev/) — The official documentation for React.js.
 - [GeeksforGeeks React JS Course](https://www.geeksforgeeks.org/reactjs-tutorials/) — Beginner to advanced React tutorials.
 - [Learn React.JS in an interactive environment](https://react-tutorial.app) — Learn modern React from scratch, and practice in an intuitive environment.
-- [GitHub Final Year Projects Repository](https://github.com/topics/reactjs-projects) — Real-world React project examples.
+- [Top 10+ Free ReactJS Books in PDF Format for Beginners](https://www.codewithfaraz.com/article/222/top-10-free-reactjs-books-in-pdf-format-for-beginners) — Find over 10 free ReactJS books in PDF format, ideal for beginners. Boost your ReactJS skills with these top resources.
 
 
 ## Section 6: Capstone Project Examples
@@ -293,7 +293,6 @@ Choose one or more of these for hands-on assignments. Each project should includ
 - [React Official Documentation](https://react.dev/)
 - [React Patterns](https://reactpatterns.com/)
 - [Awesome React (GitHub)](https://github.com/enaqx/awesome-react)
-- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [React Community Discussions (Dev.to)](https://dev.to/t/react)
 - [Reactiflux Discord Community](https://www.reactiflux.com/)
 
