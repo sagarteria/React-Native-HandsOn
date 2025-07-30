@@ -68,6 +68,8 @@ Outline for Prerequisite Knowledge:
 
 Objective: Enable learners to understand and build React applications using core concepts like JSX, components, hooks, and routing.
 Topics & Goals:
+    • ES6+ JavaScript Features:
+        ○ Use classes, arrow functions, destructuring, and modules as used in React
     • JSX & Components:
         ○ Build modular UI using reusable React components
         ○ Understand the difference between functional and class components
@@ -82,9 +84,9 @@ Topics & Goals:
         ○ Render lists of components using map
         ○ Understand the importance of keys in lists
         ○ Implement conditional rendering (ternary, &&, etc.)
-    • Hooks (useState, useEffect):
+    • Hooks (useState, useEffect, useRef):
         ○ Handle component lifecycles and local state
-        ○ Explore additional hooks like useContext and useReducer
+        ○ Explore additional hooks like useContext, useReducer, and useRef
         ○ Learn when and how to use custom hooks
     • API Calling & Data Fetching:
         ○ Fetch data from APIs using fetch/axios
@@ -104,7 +106,10 @@ Topics & Goals:
         ○ Apply styles using multiple approaches for clean design
         ○ Explore CSS-in-JS libraries like Emotion or Styled Components
         ○ Learn about CSS modules and their benefits
+        ○ Use Sass for advanced styling
         ○ Material-UI Framework: Leverage Material-UI for pre-designed components and consistent theming
+    • Performance Optimization (Intro):
+        ○ Understand the basics of React.memo for optimizing component rendering (details in Advanced Track)
     • Redux/Context API:
         ○ Manage global state and structure application flow
     • Type Checking:
