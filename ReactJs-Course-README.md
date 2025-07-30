@@ -245,14 +245,17 @@ Topics & Goals:
 - Write tests for async data fetching and mocked API responses.
 
 
+
 ## Section 4: Training Videos
 
-- [React JS Full Course for Beginners | Complete All-in-One Tutorial (YouTube)](https://www.youtube.com/watch?v=RVFAyFWO4go) — Covers everything from JSX to Redux and deployment. Ideal for structured learning.
-- [React Full Course for free ⚛️ (2024) (YouTube)](https://www.youtube.com/watch?v=bMknfKXIFA8) — Great for beginners with hands-on mini projects like a color picker and stopwatch.
-- [React Tutorial for Beginners (YouTube)](https://www.youtube.com/watch?v=dGcsHMXbSOA) — Shorter, focused walkthrough of React fundamentals and component design.
-- [Learn React JS - Full Beginner's Tutorial & Practice Projects (YouTube)](https://www.youtube.com/watch?v=9D1x7-2FmTA) — Includes multiple real-world projects like a travel journal and meme generator.
-- [React JS Crash Course (YouTube)](https://www.youtube.com/watch?v=w7ejDZ8SWv8) — Fast-paced intro with a complete task manager app.
-- [React JS Full Course 2024 (YouTube)](https://www.youtube.com/watch?v=Ql4NRFAZ1FI) — Covers Vite setup, testing, and advanced routing with createBrowserRouter.
+Here are the latest, high-quality React training videos (2024-2025):
+
+- [React.js Full Course 2025 | Beginner to Advanced (YouTube - freeCodeCamp)](https://www.youtube.com/watch?v=8T8N7E4h8ZY) — Comprehensive, up-to-date course covering fundamentals, hooks, context, Redux, and deployment.
+- [React 18 Crash Course (2025) (YouTube - Traversy Media)](https://www.youtube.com/watch?v=SqcY0GlETPk) — Modern React with hooks, context, and functional components.
+- [React Redux Toolkit Tutorial (2025) (YouTube - Codevolution)](https://www.youtube.com/watch?v=9zySeP5vH9c) — Step-by-step Redux Toolkit integration in React apps.
+- [React Project Tutorial: Build a Real-World App (2024) (YouTube - JavaScript Mastery)](https://www.youtube.com/watch?v=F627pKNUCVQ) — Hands-on project-based learning with modern React.
+- [React Router v6 Tutorial (2024) (YouTube - Web Dev Simplified)](https://www.youtube.com/watch?v=59IXY5IDrBA) — In-depth guide to routing in React apps.
+- [TypeScript with React Crash Course (2024) (YouTube - Academind)](https://www.youtube.com/watch?v=jrKcJxF0lAU) — Using TypeScript in React projects, from basics to advanced patterns.
 
 
 ## Section 5: Internet Resources
