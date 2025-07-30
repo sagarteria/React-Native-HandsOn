@@ -282,14 +282,11 @@ Choose one or more of these for hands-on assignments. Each project should includ
 
 - **Udemy:**
     - [React - The Complete Guide 2025 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) — Beginner to Advanced, ~48 hours
-    - [Modern React with Redux](https://www.udemy.com/course/react-redux/) — Intermediate, ~52 hours
+    - [The Ultimate React Course 2025: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/) — Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns
+    - [Complete React, Next.js & TypeScript Projects Course 2025](https://www.udemy.com/course/react-tutorial-and-projects-course) — Hands-on React: 25+ Projects Featuring Next.js, TypeScript, Prisma, Zod, Shadcn, Axios, Router 6, Query 5, Redux Toolkit
 - **Coursera:**
-    - [Meta React Specialization](https://www.coursera.org/specializations/meta-react) — Beginner to Advanced, ~4 months
-    - [IBM Front-End Apps with React](https://www.coursera.org/learn/front-end-react) — Intermediate, ~1 month
-- **O'Reilly:**
-    - [React.JS: The Complete Course for Beginners](https://learning.oreilly.com/videos/react-js-the/9781803237374/) — Beginner, ~6 hours
-    - [React in 4 Hours - Live Event](https://learning.oreilly.com/live-events/react-in-4-hours/0636920080212/) — Beginner, 4 hours
-
+    - [Meta React Basics](https://www.coursera.org/learn/react-basics) — Beginner level
+    - [Meta Advanced React](https://www.coursera.org/learn/advanced-react) — Intermediate level
 
 ## Section 8: Reference
 
