@@ -1,1 +1,0 @@
-## This directory contains screenshots of the different tasks mentioned in the hands-on document 
