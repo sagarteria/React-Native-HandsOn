@@ -251,12 +251,8 @@ Topics & Goals:
 Here are the latest, high-quality React training videos (2024-2025):
 
 - [React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours](https://www.youtube.com/watch?v=dCLhUialKPQ) — Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
-- [React 18 Crash Course (2025) (YouTube - Traversy Media)](https://www.youtube.com/watch?v=SqcY0GlETPk) — Modern React with hooks, context, and functional components.
-- [React Redux Toolkit Tutorial (2025) (YouTube - Codevolution)](https://www.youtube.com/watch?v=9zySeP5vH9c) — Step-by-step Redux Toolkit integration in React apps.
-- [React Project Tutorial: Build a Real-World App (2024) (YouTube - JavaScript Mastery)](https://www.youtube.com/watch?v=F627pKNUCVQ) — Hands-on project-based learning with modern React.
-- [React Router v6 Tutorial (2024) (YouTube - Web Dev Simplified)](https://www.youtube.com/watch?v=59IXY5IDrBA) — In-depth guide to routing in React apps.
-- [TypeScript with React Crash Course (2024) (YouTube - Academind)](https://www.youtube.com/watch?v=jrKcJxF0lAU) — Using TypeScript in React projects, from basics to advanced patterns.
-
+- [React JS 19 Crash Course - 2025 | Build and Deploy App](https://www.youtube.com/watch?v=GPWHql7scWc) — Fundamental topics of React and we will also build and deploy Meal Searching application with AI
+- [React Tutorial for Beginners (React 19, 2025)](https://www.youtube.com/watch?v=-L0BSSQBWOI) — React Tutorial and React Course for beginners, build modern websites with React
 
 ## Section 5: Internet Resources
 
