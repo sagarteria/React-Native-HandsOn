@@ -86,6 +86,12 @@ Topics & Goals:
         ○ Handle component lifecycles and local state
         ○ Explore additional hooks like useContext and useReducer
         ○ Learn when and how to use custom hooks
+    • API Calling & Data Fetching:
+        ○ Fetch data from APIs using fetch/axios
+        ○ Use useEffect for data fetching on mount
+        ○ Handle loading and error states
+        ○ Use async/await for asynchronous operations
+        ○ Understand best practices for separating data fetching logic
     • Events & Forms:
         ○ Implement user interactions and validate inputs
         ○ Understand controlled vs uncontrolled components
