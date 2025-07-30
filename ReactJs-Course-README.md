@@ -154,6 +154,10 @@ Topics & Goals:
         ○ Manage global state and structure application flow
         ○ Understand prop drilling and strategies to avoid it (e.g., Context API)
         ○ Use createContext, Provider, and Consumer for context management
+        ○ Introduction to Redux: concepts of store, actions, reducers
+        ○ Setting up Redux in a React app (basic example)
+        ○ Using Redux DevTools for debugging
+        ○ When to use Redux vs Context API
     • Type Checking:
         ○ Use PropTypes or TypeScript for type safety
     • Error Handling:
@@ -163,17 +167,18 @@ Topics & Goals:
         ○ Learn and apply basic accessibility practices in React apps
 
 **Practice Assignments:**
-- Build a simple counter app using state and props.
-- Create a form with validation using controlled components.
-- Implement navigation between two pages using React Router.
-- Render a list of items with unique keys and add conditional rendering for empty states.
-- Add PropTypes or TypeScript to a component for type checking.
-- Fetch data from a public API and display it in a list, showing loading and error states.
-- Refactor a class component to a functional component using hooks.
-- Use Context API to manage theme (light/dark) across the app.
-- Style a component using both CSS modules and a CSS-in-JS library.
-- Write a custom hook for toggling a boolean value.
-- Add accessibility features (aria-labels, keyboard navigation) to your form.
+    - Build a simple counter app using state and props.
+    - Create a form with validation using controlled components.
+    - Implement navigation between two pages using React Router.
+    - Render a list of items with unique keys and add conditional rendering for empty states.
+    - Add PropTypes or TypeScript to a component for type checking.
+    - Fetch data from a public API and display it in a list, showing loading and error states.
+    - Refactor a class component to a functional component using hooks.
+    - Use Context API to manage theme (light/dark) across the app.
+    - Style a component using both CSS modules and a CSS-in-JS library.
+    - Write a custom hook for toggling a boolean value.
+    - Add accessibility features (aria-labels, keyboard navigation) to your form.
+    - Build a simple Redux-powered counter or todo app (actions, reducers, store, connect to React components).
 
 
 ## Section 3: Advanced Track
@@ -190,7 +195,7 @@ Topics & Goals:
         ○ Implement lazy loading for components and assets
         ○ Explore techniques for reducing re-renders
     • Redux Toolkit:
-        ○ Use Redux Toolkit for simplified Redux state management
+        ○ Use Redux Toolkit for advanced Redux state management patterns and best practices
     • GraphQL:
         ○ Integrate React with GraphQL APIs for efficient data querying
     • Firebase:
