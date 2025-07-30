@@ -85,9 +85,12 @@ Key Focus:
     • Build a “Hello React” starter app to validate setup
     • Single Page Application (SPA) concept: How React apps differ from traditional web apps
 
-**Practice Assignment:**
+**Practice Assignments:**
 - Set up your environment and create a "Hello React" app using Create React App or Vite. Share a screenshot of your running app.
 - Open your app in React DevTools and inspect the component tree.
+- Edit the starter app to display your name and a favorite color.
+- Experiment with changing some CSS styles in your app.
+- Use browser DevTools to inspect HTML/CSS and try changing an element’s style live.
 
 
 ## Section 2: Foundation Track
@@ -166,6 +169,11 @@ Topics & Goals:
 - Render a list of items with unique keys and add conditional rendering for empty states.
 - Add PropTypes or TypeScript to a component for type checking.
 - Fetch data from a public API and display it in a list, showing loading and error states.
+- Refactor a class component to a functional component using hooks.
+- Use Context API to manage theme (light/dark) across the app.
+- Style a component using both CSS modules and a CSS-in-JS library.
+- Write a custom hook for toggling a boolean value.
+- Add accessibility features (aria-labels, keyboard navigation) to your form.
 
 
 ## Section 3: Advanced Track
@@ -223,6 +231,13 @@ Topics & Goals:
 - Refactor a component to use a custom hook.
 - Optimize a list rendering with React.memo and useMemo.
 - Write unit tests for a component using Jest and React Testing Library.
+- Integrate Redux Toolkit for global state and add a feature (e.g., counter, todo list).
+- Set up a simple GraphQL query using Apollo Client.
+- Deploy your app to Netlify or Vercel and share the live link.
+- Add an animation to a component using Framer Motion or React Spring.
+- Implement server-side rendering with Next.js for a simple page.
+- Add error boundaries to catch and display errors in a child component.
+- Write tests for async data fetching and mocked API responses.
 
 
 ## Section 4: Training Videos
