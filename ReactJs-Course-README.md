@@ -197,6 +197,11 @@ Topics & Goals:
     - Write a custom hook for toggling a boolean value.
     - Add accessibility features (aria-labels, keyboard navigation) to your form.
     - Build a simple Redux-powered counter or todo app (actions, reducers, store, connect to React components).
+    - Use React Profiler or Chrome DevTools to measure and optimize the performance of a component.
+    - Analyze your app’s bundle size using Webpack Bundle Analyzer and identify large dependencies.
+    - Implement a simple real-time chat or notification feature using Websockets or Server-Sent Events (SSE).
+    - Add a chart or graph to your app using a visualization library (e.g., Chart.js, Recharts, Victory, or Nivo).
+    - Add internationalization (i18n) to your app using react-i18next or FormatJS, and implement a language switcher.
 
 
 ## Section 3: Advanced Track
