@@ -37,42 +37,46 @@ This course is designed to ramp up new employees (technical, non-technical, or b
 
 
 
+## Common: Web Fundamentals (Pre-requisite)
+
+This section covers the essential web development fundamentals that are a pre-requisite for the React.js course. Learners should be comfortable with these topics before starting the course.
+
+**HTML (HyperText Markup Language):**
+  - Structure and semantics of web pages
+  - Common tags and attributes
+  - Forms and input elements
+  - Semantic tags (header, nav, main, footer)
+  - Tables for data display
+  - Embedding media (images, video, audio)
+  - Accessibility basics (alt text, ARIA attributes)
+
+**CSS (Cascading Style Sheets):**
+  - Styling basics (selectors, properties, values)
+  - Box model and layout techniques
+  - Responsive design principles
+  - Flexbox and Grid for layout
+  - CSS transitions and basic animations
+  - CSS variables
+  - Media queries for responsiveness
+  - Specificity and cascade
+
+**JavaScript:**
+  - Variables, data types, and operators
+  - Functions, loops, and conditionals
+  - Arrays and objects
+  - JSON basics
+  - DOM manipulation and event handling
+  - ES6+ features (let/const, arrow functions, template literals)
+  - Event listeners
+  - Scope and hoisting
+  - Basic error handling (try/catch)
+  - Basic debugging (console.log)
+
+---
+
 ## Section 1: Getting Started with React
 
-
 Objective: Equip learners with a solid development environment and foundational knowledge to begin working with React.
-
-Essential Web Fundamentals: Brief introduction for those new to web development
-
-Overview of Essential Web Fundamentals:
-    • HTML (HyperText Markup Language):
-        ○ Structure and semantics of web pages
-        ○ Common tags and attributes
-        ○ Forms and input elements
-        ○ Semantic tags (header, nav, main, footer)
-        ○ Tables for data display
-        ○ Embedding media (images, video, audio)
-        ○ Accessibility basics (alt text, ARIA attributes)
-    • CSS (Cascading Style Sheets):
-        ○ Styling basics (selectors, properties, values)
-        ○ Box model and layout techniques
-        ○ Responsive design principles
-        ○ Flexbox and Grid for layout
-        ○ CSS transitions and basic animations
-        ○ CSS variables
-        ○ Media queries for responsiveness
-        ○ Specificity and cascade
-    • JavaScript:
-        ○ Variables, data types, and operators
-        ○ Functions, loops, and conditionals
-        ○ Arrays and objects
-        ○ JSON basics
-        ○ DOM manipulation and event handling
-        ○ ES6+ features (let/const, arrow functions, template literals)
-        ○ Event listeners
-        ○ Scope and hoisting
-        ○ Basic error handling (try/catch)
-        ○ Basic debugging (console.log)
 
 Key Focus:
     • What is React? Introduction to React JS and its core philosophy
@@ -146,7 +150,7 @@ Topics & Goals:
         ○ Explore CSS-in-JS libraries like Emotion or Styled Components
         ○ Learn about CSS modules and their benefits
         ○ Use Sass for advanced styling
-        ○ Material-UI Framework: Leverage Material-UI for pre-designed components and consistent theming (in detail)
+        ○ Material-UI/Ant Design Framework: Leverage Material-UI/Ant Design for pre-designed components and consistent theming (in detail)
 
     • Redux/Context API:
         ○ Manage global state and structure application flow
@@ -257,7 +261,7 @@ Topics & Goals:
         ○ Learn the steps for deploying React applications
         ○ Understand CI/CD pipelines for automated deployment
         ○ Use environment variables for configuration and secrets
-        ○ Deploy React apps using Netlify, Vercel, GitHub Pages, or Heroku
+        ○ Deploy React apps using Vercel or Netlify
         ○ Explore deployment strategies for different hosting platforms
 
 **Practice Assignments:**
