@@ -217,7 +217,7 @@ Topics & Goals:
     • GraphQL:
         ○ Integrate React with GraphQL APIs for efficient data querying
 
-    • Internalal Alias - Multi language:
+    • Internationalization (i18n) & Multi-language Support:
         ○ Implement internationalization (i18n) and localization in React apps
         ○ Use libraries like react-i18next or FormatJS for multi-language support
         ○ Set up language switchers and manage translations
