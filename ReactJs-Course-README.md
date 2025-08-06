@@ -147,8 +147,6 @@ Topics & Goals:
         ○ Learn about CSS modules and their benefits
         ○ Use Sass for advanced styling
         ○ Material-UI Framework: Leverage Material-UI for pre-designed components and consistent theming (in detail)
-    • Performance Optimization (Intro):
-        ○ Understand the basics of React.memo for optimizing component rendering (details in Advanced Track)
 
     • Redux/Context API:
         ○ Manage global state and structure application flow
@@ -158,6 +156,26 @@ Topics & Goals:
         ○ Setting up Redux in a React app (basic example)
         ○ Using Redux DevTools for debugging
         ○ When to use Redux vs Context API
+
+    • Performance Optimization (Intro):
+        ○ Understand the basics of React.memo for optimizing component rendering (details in Advanced Track)
+
+    • Tools for Performance Optimisation:
+        ○ Explore tools like React Profiler, Chrome DevTools, Lighthouse, and Web Vitals for measuring and improving app performance
+        ○ Analyze bundle size with Webpack Bundle Analyzer
+        ○ Use code-splitting and lazy loading for better performance
+
+    • Websockets & SSE (Server-Sent Events):
+        ○ Understand real-time data communication in React apps
+        ○ Use Websockets (e.g., socket.io-client) for bidirectional communication
+        ○ Use Server-Sent Events for one-way real-time updates
+        ○ Implement a simple chat or live notification feature
+
+    • Visualisation:
+        ○ Integrate charting and visualization libraries (e.g., Chart.js, Recharts, Victory, Nivo.Rocks)
+        ○ Display data visually using charts, graphs, and dashboards
+        ○ Best practices for visualizing large datasets
+
     • Type Checking:
         ○ Use PropTypes or TypeScript for type safety
     • Error Handling:
@@ -198,6 +216,11 @@ Topics & Goals:
         ○ Use Redux Toolkit for advanced Redux state management patterns and best practices
     • GraphQL:
         ○ Integrate React with GraphQL APIs for efficient data querying
+
+    • Internalal Alias - Multi language:
+        ○ Implement internationalization (i18n) and localization in React apps
+        ○ Use libraries like react-i18next or FormatJS for multi-language support
+        ○ Set up language switchers and manage translations
     • Firebase:
         ○ Integrate React applications with third-party backends such as Firebase for authentication and real-time databases
     • Webpack & Babel:
