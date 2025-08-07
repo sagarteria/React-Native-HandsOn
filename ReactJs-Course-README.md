@@ -34,9 +34,9 @@ Below is a condensed 11-week timeline for the React.js Onboarding Course. Each w
 | 5    | Section 2: Foundation Track | **Section 2: Styling, Redux/Context API** — Styling (CSS-in-JS, CSS Modules, Sass, Material-UI/Ant Design), Redux/Context API, Prop drilling, createContext, Provider, Consumer, Redux basics, Redux DevTools, When to use Redux vs Context |
 | 6    | Section 2: Foundation Track | **Section 2: Performance Optimization, Tools, Websockets & SSE** — Performance Optimization (Intro), Tools for Performance Optimisation, Websockets & SSE (socket.io-client, SSE, chat/notification feature) |
 | 7    | Section 2: Foundation Track | **Section 2: Visualisation, Type Checking, Error Handling, Accessibility** — Visualisation (Chart.js, Recharts, Victory, Nivo), Type Checking (PropTypes, TypeScript), Error Handling (Error Boundaries, StrictMode), Accessibility |
-| 8    | Section 3: Advanced Track | **Section 3: Custom Hooks, Performance Optimization, Redux Toolkit, GraphQL, Firebase** — Custom Hooks, Performance Optimization (memo, useMemo, useCallback, code splitting, lazy loading), Redux Toolkit, GraphQL, Firebase |
-| 9    | Section 3: Advanced Track | **Section 3: Webpack & Babel, TypeScript (advanced), Animations, Testing, SSR, Portals, HOC, Render Props, PureComponent, StrictMode** — Webpack & Babel, TypeScript (advanced), Animations (Framer Motion, React Spring), Testing (Jest, RTL, Enzyme), SSR (Next.js, SSG, ISR), Portals, HOC, Render Props, PureComponent, StrictMode |
-| 10   | Section 3: Advanced Track | **Section 3: Deployment, CI/CD, Env variables, Internationalization, Capstone, Review, Q&A, Certification prep** — Deployment (Netlify, Vercel, GitHub Pages), CI/CD, Env variables, Internationalization (i18n), Multi-language support, Capstone project, Review, Q&A, Certification prep |
+| 8    | Section 3: Advanced Track | **Section 3: Custom Hooks, Performance Optimization, Redux Toolkit, GraphQL, Firebase, Internationalization (i18n) & Multi-language Support** — Custom Hooks, Performance Optimization (memo, useMemo, useCallback, code splitting, lazy loading), Redux Toolkit, GraphQL, Firebase, Internationalization (i18n) & Multi-language Support |
+| 9    | Section 3: Advanced Track | **Section 3: Webpack & Babel, TypeScript, Animations, Testing (Jest & RTL), Server-Side Rendering (SSR), Animations, Portals, Higher-Order Components (HOC), Render Props, PureComponent, StrictMode** — Webpack & Babel, TypeScript, Animations (Framer Motion, React Spring), Testing (Jest & RTL), Server-Side Rendering (SSR), Animations, Portals, Higher-Order Components (HOC), Render Props, PureComponent, StrictMode |
+| 10   | Section 3: Advanced Track | **Section 3: Deployment, CI/CD, Env variables, Capstone, Review, Q&A, Certification prep** — Deployment (Netlify, Vercel, GitHub Pages), CI/CD, Env variables, Capstone project, Review, Q&A, Certification prep |
 
 **Note:** Learners may progress faster or slower depending on prior experience. Instructors can adjust the pace and track completion of each week’s checklist.
 
@@ -267,10 +267,6 @@ Topics & Goals:
         ○ Explore Next.js features like static site generation (SSG) and incremental static regeneration (ISR)
         ○ Implement SSR in a sample project
     • Animations: Basic introduction to adding animations in React (CSS transitions, libraries like Framer Motion)
-    • Portals: Render components outside the main DOM hierarchy using React Portals
-    • Higher-Order Components (HOC): Implement HOCs for code reuse and abstraction
-    • Render Props: Use the render props pattern for sharing code between components
-    • PureComponent: Use React.PureComponent for optimizing class-based components
     • Portals: Render components outside the main DOM hierarchy using React Portals
     • Higher-Order Components (HOC): Implement HOCs for code reuse and abstraction
     • Render Props: Use the render props pattern for sharing code between components
