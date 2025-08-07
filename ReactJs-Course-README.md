@@ -35,8 +35,10 @@ Below is a condensed 11-week timeline for the React.js Onboarding Course. Each w
 | 6    | Section 2: Foundation Track | **Section 2: Performance Optimization, Tools, Websockets & SSE** — Performance Optimization (Intro), Tools for Performance Optimisation, Websockets & SSE (socket.io-client, SSE, chat/notification feature) |
 | 7    | Section 2: Foundation Track | **Section 2: Visualisation, Type Checking, Error Handling, Accessibility** — Visualisation (Chart.js, Recharts, Victory, Nivo), Type Checking (PropTypes, TypeScript), Error Handling (Error Boundaries, StrictMode), Accessibility |
 | 8    | Section 3: Advanced Track | **Section 3: Custom Hooks, Performance Optimization, Redux Toolkit, GraphQL, Firebase, Internationalization (i18n) & Multi-language Support** — Custom Hooks, Performance Optimization (memo, useMemo, useCallback, code splitting, lazy loading), Redux Toolkit, GraphQL, Firebase, Internationalization (i18n) & Multi-language Support |
-| 9    | Section 3: Advanced Track | **Section 3: Webpack & Babel, TypeScript, Animations, Testing (Jest & RTL), Server-Side Rendering (SSR), Portals, Higher-Order Components (HOC), Render Props, PureComponent, StrictMode** — Webpack & Babel, TypeScript, Animations (Framer Motion, React Spring), Testing (Jest & RTL), Server-Side Rendering (SSR), Portals, Higher-Order Components (HOC), Render Props, PureComponent, StrictMode |
-| 10   | Section 3: Advanced Track | **Section 3: Deployment, CI/CD, Env variables, Capstone, Certification prep** — Deployment (Netlify, Vercel, GitHub Pages), CI/CD, Env variables, Capstone project, Review, Q&A, Certification prep |
+| 9    | Section 3: Advanced Track | **Section 3: Webpack & Babel, TypeScript, Animations** — Webpack & Babel, TypeScript, Animations (Framer Motion, React Spring) |
+| 10   | Section 3: Advanced Track | **Section 3: Testing (Jest & RTL), Server-Side Rendering (SSR), Portals** — Testing (Jest & RTL), Server-Side Rendering (SSR), Portals |
+| 11   | Section 3: Advanced Track | **Section 3: Higher-Order Components (HOC), Render Props, PureComponent, StrictMode** — Higher-Order Components (HOC), Render Props, PureComponent, StrictMode |
+| 12   | Section 3: Advanced Track | **Section 3: Deployment, CI/CD, Env variables, Capstone, Certification prep** — Deployment (Netlify, Vercel, GitHub Pages), CI/CD, Env variables, Capstone project, Review, Q&A, Certification prep |
 
 **Note:** Learners may progress faster or slower depending on prior experience. Instructors can adjust the pace and track completion of each week’s checklist.
 
