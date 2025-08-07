@@ -239,89 +239,89 @@ Key Focus:
 
 ## Section 3: Advanced Track
 
-3.1 Objective: Equip learners with advanced patterns and tooling for scalable, performant, and testable applications.
-3.2 Topics & Goals:
-    3.2.1 Custom Hooks: Abstract business logic into reusable functions
-        ○ Learn how to create and use custom hooks effectively
-        ○ Explore real-world examples of custom hooks
-    3.2.2 Performance Optimization: Use memoization and lazy loading to speed up rendering
-        ○ Understand React.memo and useMemo for optimizing component rendering, including custom comparison functions
-        ○ Optimize performance using useCallback and useMemo hooks
-        ○ Implement code splitting using React.lazy and Suspense for dynamic imports
-        ○ Implement lazy loading for components and assets
-        ○ Explore techniques for reducing re-renders
+    3.1 Objective: Equip learners with advanced patterns and tooling for scalable, performant, and testable applications.
+    3.2 Topics & Goals:
+        3.2.1 Custom Hooks: Abstract business logic into reusable functions
+            ○ Learn how to create and use custom hooks effectively
+            ○ Explore real-world examples of custom hooks
+        3.2.2 Performance Optimization: Use memoization and lazy loading to speed up rendering
+            ○ Understand React.memo and useMemo for optimizing component rendering, including custom comparison functions
+            ○ Optimize performance using useCallback and useMemo hooks
+            ○ Implement code splitting using React.lazy and Suspense for dynamic imports
+            ○ Implement lazy loading for components and assets
+            ○ Explore techniques for reducing re-renders
 
-    3.2.3 Redux Toolkit:
-        ○ Use Redux Toolkit for advanced Redux state management patterns and best practices
+        3.2.3 Redux Toolkit:
+            ○ Use Redux Toolkit for advanced Redux state management patterns and best practices
 
-    3.2.4 GraphQL:
-        ○ Integrate React with GraphQL APIs for efficient data querying
+        3.2.4 GraphQL:
+            ○ Integrate React with GraphQL APIs for efficient data querying
 
-    3.2.5 Firebase:
-        ○ Integrate React applications with third-party backends such as Firebase for authentication and real-time databases
+        3.2.5 Firebase:
+            ○ Integrate React applications with third-party backends such as Firebase for authentication and real-time databases
 
-    3.2.6 Internationalization (i18n) & Multi-language Support:
-        ○ Implement internationalization (i18n) and localization in React apps
-        ○ Use libraries like react-i18next or FormatJS for multi-language support
-        ○ Set up language switchers and manage translations
+        3.2.6 Internationalization (i18n) & Multi-language Support:
+            ○ Implement internationalization (i18n) and localization in React apps
+            ○ Use libraries like react-i18next or FormatJS for multi-language support
+            ○ Set up language switchers and manage translations
 
-    3.2.7 Webpack & Babel:
-        ○ Understand manual React project setup using Webpack and Babel for custom configurations
+        3.2.7 Webpack & Babel:
+            ○ Understand manual React project setup using Webpack and Babel for custom configurations
 
-    3.2.8 TypeScript:
-        ○ Use TypeScript with React for static type checking, including typing props, state, and components
+        3.2.8 TypeScript:
+            ○ Use TypeScript with React for static type checking, including typing props, state, and components
 
-    3.2.9 Animations:
-        ○ Add animations using libraries like Framer Motion or React Spring
+        3.2.9 Animations:
+            ○ Add animations using libraries like Framer Motion or React Spring
 
-    3.2.10 Testing (Jest & RTL): Write robust unit and integration tests
-        ○ Learn the basics of Jest and React Testing Library
-        ○ Write test cases for components, hooks, and Redux
-        ○ Understand mocking and testing asynchronous code
-        ○ (Optional) Use Enzyme for testing legacy class components
+        3.2.10 Testing (Jest & RTL): Write robust unit and integration tests
+            ○ Learn the basics of Jest and React Testing Library
+            ○ Write test cases for components, hooks, and Redux
+            ○ Understand mocking and testing asynchronous code
+            ○ (Optional) Use Enzyme for testing legacy class components
 
-    3.2.11 Server-Side Rendering (SSR): Understand how Next.js improves SEO and performance
-        ○ Learn the basics of SSR and its benefits
-        ○ Explore Next.js features like static site generation (SSG) and incremental static regeneration (ISR)
-        ○ Implement SSR in a sample project
+        3.2.11 Server-Side Rendering (SSR): Understand how Next.js improves SEO and performance
+            ○ Learn the basics of SSR and its benefits
+            ○ Explore Next.js features like static site generation (SSG) and incremental static regeneration (ISR)
+            ○ Implement SSR in a sample project
 
-    3.2.12 Animations (CSS transitions, libraries like Framer Motion):
-        ○ Basic introduction to adding animations in React
+        3.2.12 Animations (CSS transitions, libraries like Framer Motion):
+            ○ Basic introduction to adding animations in React
 
-    3.2.13 Portals:
-        ○ Render components outside the main DOM hierarchy using React Portals
+        3.2.13 Portals:
+            ○ Render components outside the main DOM hierarchy using React Portals
 
-    3.2.14 Higher-Order Components (HOC):
-        ○ Implement HOCs for code reuse and abstraction
+        3.2.14 Higher-Order Components (HOC):
+            ○ Implement HOCs for code reuse and abstraction
 
-    3.2.15 Render Props:
-        ○ Use the render props pattern for sharing code between components
+        3.2.15 Render Props:
+            ○ Use the render props pattern for sharing code between components
 
-    3.2.16 PureComponent:
-        ○ Use React.PureComponent for optimizing class-based components
+        3.2.16 PureComponent:
+            ○ Use React.PureComponent for optimizing class-based components
 
-    3.2.17 StrictMode:
-        ○ Use React.StrictMode to identify unsafe lifecycle methods and potential issues
+        3.2.17 StrictMode:
+            ○ Use React.StrictMode to identify unsafe lifecycle methods and potential issues
 
-    3.2.18 Deployment:
-        ○ Host projects confidently using Netlify, Vercel or GitHub Pages
-        ○ Learn the steps for deploying React applications
-        ○ Understand CI/CD pipelines for automated deployment
-        ○ Use environment variables for configuration and secrets
-        ○ Deploy React apps using Vercel or Netlify
-        ○ Explore deployment strategies for different hosting platforms
+        3.2.18 Deployment:
+            ○ Host projects confidently using Netlify, Vercel or GitHub Pages
+            ○ Learn the steps for deploying React applications
+            ○ Understand CI/CD pipelines for automated deployment
+            ○ Use environment variables for configuration and secrets
+            ○ Deploy React apps using Vercel or Netlify
+            ○ Explore deployment strategies for different hosting platforms
 
 **Practice Assignments:**
-- Refactor a component to use a custom hook.
-- Optimize a list rendering with React.memo and useMemo.
-- Write unit tests for a component using Jest and React Testing Library.
-- Integrate Redux Toolkit for global state and add a feature (e.g., counter, todo list).
-- Set up a simple GraphQL query using Apollo Client.
-- Deploy your app to Netlify or Vercel and share the live link.
-- Add an animation to a component using Framer Motion or React Spring.
-- Implement server-side rendering with Next.js for a simple page.
-- Add error boundaries to catch and display errors in a child component.
-- Write tests for async data fetching and mocked API responses.
+    - Refactor a component to use a custom hook.
+    - Optimize a list rendering with React.memo and useMemo.
+    - Write unit tests for a component using Jest and React Testing Library.
+    - Integrate Redux Toolkit for global state and add a feature (e.g., counter, todo list).
+    - Set up a simple GraphQL query using Apollo Client.
+    - Deploy your app to Netlify or Vercel and share the live link.
+    - Add an animation to a component using Framer Motion or React Spring.
+    - Implement server-side rendering with Next.js for a simple page.
+    - Add error boundaries to catch and display errors in a child component.
+    - Write tests for async data fetching and mocked API responses.
 
 
 
