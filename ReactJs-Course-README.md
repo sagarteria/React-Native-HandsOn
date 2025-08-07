@@ -120,102 +120,102 @@ Key Focus:
 ## Section 2: Foundation Track
 
 
-2.1 Objective: Enable learners to understand and build React applications using core concepts like JSX, components, hooks, and routing.
-2.2 Topics & Goals:
-    2.2.1 ES6+ JavaScript Features:
-        ○ Use classes, arrow functions, destructuring, and modules as used in React
-    2.2.2 JSX & Components:
-        ○ Build modular UI using reusable React components
-        ○ Understand the difference between functional and class components
-        ○ Learn best practices for component structure and naming conventions
-        ○ Understand basic folder/project structure for React apps
-        ○ Containers vs Presentational Components: Understand separation of concerns
-        ○ Use React Fragments to group elements without extra DOM nodes
-        ○ JS Expressions in JSX: Embedding JavaScript logic in UI
-        ○ Default input values in forms and components
+    2.1 Objective: Enable learners to understand and build React applications using core concepts like JSX, components, hooks, and routing.
+    2.2 Topics & Goals:
+        2.2.1 ES6+ JavaScript Features:
+            ○ Use classes, arrow functions, destructuring, and modules as used in React
+        2.2.2 JSX & Components:
+            ○ Build modular UI using reusable React components
+            ○ Understand the difference between functional and class components
+            ○ Learn best practices for component structure and naming conventions
+            ○ Understand basic folder/project structure for React apps
+            ○ Containers vs Presentational Components: Understand separation of concerns
+            ○ Use React Fragments to group elements without extra DOM nodes
+            ○ JS Expressions in JSX: Embedding JavaScript logic in UI
+            ○ Default input values in forms and components
 
-    2.2.3 State & Props:
-        ○ Manage component state effectively
-        ○ Pass data between components using props
-        ○ Understand the concept of lifting state up
-        ○ Use default props and destructuring
+        2.2.3 State & Props:
+            ○ Manage component state effectively
+            ○ Pass data between components using props
+            ○ Understand the concept of lifting state up
+            ○ Use default props and destructuring
 
-    2.2.4 List & Conditional Rendering:
-        ○ Render lists of components using map
-        ○ Understand the importance of keys in lists and why not to use index as key unless necessary
-        ○ Implement conditional rendering (ternary, &&, etc.)
+        2.2.4 List & Conditional Rendering:
+            ○ Render lists of components using map
+            ○ Understand the importance of keys in lists and why not to use index as key unless necessary
+            ○ Implement conditional rendering (ternary, &&, etc.)
 
-    2.2.5 Hooks (useState, useEffect, useRef):
-        ○ Introduction to React component lifecycle (with hooks)
-        ○ Handle component lifecycles and local state
-        ○ Explore additional hooks like useContext, useReducer, and useRef
-        ○ Learn when and how to use custom hooks
-        ○ Use refs and forward refs to access and manipulate DOM nodes
-        ○ Use useImperativeHandle to customize instance values exposed to parent components
+        2.2.5 Hooks (useState, useEffect, useRef):
+            ○ Introduction to React component lifecycle (with hooks)
+            ○ Handle component lifecycles and local state
+            ○ Explore additional hooks like useContext, useReducer, and useRef
+            ○ Learn when and how to use custom hooks
+            ○ Use refs and forward refs to access and manipulate DOM nodes
+            ○ Use useImperativeHandle to customize instance values exposed to parent components
 
-    2.2.6 API Calling & Data Fetching:
-        ○ Fetch data from APIs using fetch or Axios (in detail)
-        ○ Use useEffect for data fetching on mount
-        ○ Handle loading and error states
-        ○ Use async/await for asynchronous operations
-        ○ Understand best practices for separating data fetching logic
+        2.2.6 API Calling & Data Fetching:
+            ○ Fetch data from APIs using fetch or Axios (in detail)
+            ○ Use useEffect for data fetching on mount
+            ○ Handle loading and error states
+            ○ Use async/await for asynchronous operations
+            ○ Understand best practices for separating data fetching logic
 
-    2.2.7 Events & Forms:
-        ○ Implement user interactions and validate inputs
-        ○ Understand controlled vs uncontrolled components
-        ○ Learn form handling libraries like Formik or React Hook Form
-        ○ Sharing events and data between components
+        2.2.7 Events & Forms:
+            ○ Implement user interactions and validate inputs
+            ○ Understand controlled vs uncontrolled components
+            ○ Learn form handling libraries like Formik or React Hook Form
+            ○ Sharing events and data between components
 
-    2.2.8 Routing:
-        ○ Navigate across views/pages using React Router v6
-        ○ Understand dynamic routing and route parameters
-        ○ Learn about nested routes and route guards
-        ○ Single Page Application (SPA) navigation and history
+        2.2.8 Routing:
+            ○ Navigate across views/pages using React Router v6
+            ○ Understand dynamic routing and route parameters
+            ○ Learn about nested routes and route guards
+            ○ Single Page Application (SPA) navigation and history
 
-    2.2.9 Styling:
-        ○ Apply styles using multiple approaches for clean design
-        ○ Explore CSS-in-JS libraries like Emotion or Styled Components
-        ○ Learn about CSS modules and their benefits
-        ○ Use Sass for advanced styling
-        ○ Material-UI/Ant Design Framework: Leverage Material-UI/Ant Design for pre-designed components and consistent theming (in detail)
+        2.2.9 Styling:
+            ○ Apply styles using multiple approaches for clean design
+            ○ Explore CSS-in-JS libraries like Emotion or Styled Components
+            ○ Learn about CSS modules and their benefits
+            ○ Use Sass for advanced styling
+            ○ Material-UI/Ant Design Framework: Leverage Material-UI/Ant Design for pre-designed components and consistent theming (in detail)
 
-    2.2.10 Redux/Context API:
-        ○ Manage global state and structure application flow
-        ○ Understand prop drilling and strategies to avoid it (e.g., Context API)
-        ○ Use createContext, Provider, and Consumer for context management
-        ○ Introduction to Redux: concepts of store, actions, reducers
-        ○ Setting up Redux in a React app (basic example)
-        ○ Using Redux DevTools for debugging
-        ○ When to use Redux vs Context API
+        2.2.10 Redux/Context API:
+            ○ Manage global state and structure application flow
+            ○ Understand prop drilling and strategies to avoid it (e.g., Context API)
+            ○ Use createContext, Provider, and Consumer for context management
+            ○ Introduction to Redux: concepts of store, actions, reducers
+            ○ Setting up Redux in a React app (basic example)
+            ○ Using Redux DevTools for debugging
+            ○ When to use Redux vs Context API
 
-    2.2.11 Performance Optimization (Intro):
-        ○ Understand the basics of React.memo for optimizing component rendering (details in Advanced Track)
+        2.2.11 Performance Optimization (Intro):
+            ○ Understand the basics of React.memo for optimizing component rendering (details in Advanced Track)
 
-    2.2.12 Tools for Performance Optimisation:
-        ○ Explore tools like React Profiler, Chrome DevTools, Lighthouse, and Web Vitals for measuring and improving app performance
-        ○ Analyze bundle size with Webpack Bundle Analyzer
-        ○ Use code-splitting and lazy loading for better performance
+        2.2.12 Tools for Performance Optimisation:
+            ○ Explore tools like React Profiler, Chrome DevTools, Lighthouse, and Web Vitals for measuring and improving app performance
+            ○ Analyze bundle size with Webpack Bundle Analyzer
+            ○ Use code-splitting and lazy loading for better performance
 
-    2.2.13 Websockets & SSE (Server-Sent Events):
-        ○ Understand real-time data communication in React apps
-        ○ Use Websockets (e.g., socket.io-client) for bidirectional communication
-        ○ Use Server-Sent Events for one-way real-time updates
-        ○ Implement a simple chat or live notification feature
+        2.2.13 Websockets & SSE (Server-Sent Events):
+            ○ Understand real-time data communication in React apps
+            ○ Use Websockets (e.g., socket.io-client) for bidirectional communication
+            ○ Use Server-Sent Events for one-way real-time updates
+            ○ Implement a simple chat or live notification feature
 
-    2.2.14 Visualisation:
-        ○ Integrate charting and visualization libraries (e.g., Chart.js, Recharts, Victory, Nivo.Rocks)
-        ○ Display data visually using charts, graphs, and dashboards
-        ○ Best practices for visualizing large datasets
+        2.2.14 Visualisation:
+            ○ Integrate charting and visualization libraries (e.g., Chart.js, Recharts, Victory, Nivo.Rocks)
+            ○ Display data visually using charts, graphs, and dashboards
+            ○ Best practices for visualizing large datasets
 
-    2.2.15 Type Checking:
-        ○ Use PropTypes or TypeScript for type safety
+        2.2.15 Type Checking:
+            ○ Use PropTypes or TypeScript for type safety
 
-    2.2.16 Error Handling:
-        ○ Understand and use Error Boundaries for catching errors in components (including getDerivedStateFromError)
-        ○ Use React.StrictMode to identify unsafe lifecycle methods and potential issues
+        2.2.16 Error Handling:
+            ○ Understand and use Error Boundaries for catching errors in components (including getDerivedStateFromError)
+            ○ Use React.StrictMode to identify unsafe lifecycle methods and potential issues
 
-    2.2.17 Accessibility (a11y):
-        ○ Learn and apply basic accessibility practices in React apps
+        2.2.17 Accessibility (a11y):
+            ○ Learn and apply basic accessibility practices in React apps
 
 **Practice Assignments:**
     - Build a simple counter app using state and props.
