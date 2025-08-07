@@ -245,13 +245,12 @@ Topics & Goals:
         ○ Use Redux Toolkit for advanced Redux state management patterns and best practices
     • GraphQL:
         ○ Integrate React with GraphQL APIs for efficient data querying
-
+    • Firebase:
+        ○ Integrate React applications with third-party backends such as Firebase for authentication and real-time databases
     • Internationalization (i18n) & Multi-language Support:
         ○ Implement internationalization (i18n) and localization in React apps
         ○ Use libraries like react-i18next or FormatJS for multi-language support
         ○ Set up language switchers and manage translations
-    • Firebase:
-        ○ Integrate React applications with third-party backends such as Firebase for authentication and real-time databases
     • Webpack & Babel:
         ○ Understand manual React project setup using Webpack and Babel for custom configurations
     • TypeScript:
