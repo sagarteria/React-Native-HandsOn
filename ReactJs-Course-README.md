@@ -24,19 +24,19 @@ This course is designed to ramp up new employees (technical, non-technical, or b
 
 Below is a condensed 11-week timeline for the React.js Onboarding Course. Each week covers specific sections, topics, and subtopics. Instructors can use this as a checklist to track learner progress.
 
-| Week | Section/Topic | Subtopics/Assignments |
+| Week | Section/Topic | Subtopics/Assignments (with Section References) |
 |------|---------------|----------------------|
-| 0    | Common: Web Fundamentals (Pre-requisite) | HTML, CSS, JavaScript basics, DOM, ES6+, Accessibility |
-| 1    | Section 1: Getting Started with React | What is React, Virtual DOM, JSX vs JS, Setup (Node, npm, VS Code), Project scaffolding, React DevTools, Hello React app, SPA concept |
-| 2    | Section 2: Foundation Track | ES6+ in React, JSX & Components, Functional vs Class Components, Folder structure, Containers vs Presentational, Fragments, JS in JSX, State & Props, Lifting state, Default props, List & Conditional Rendering, Keys |
-| 3    | Section 2: Foundation Track | Hooks (useState, useEffect, useRef, useContext, useReducer), Custom hooks, Refs, useImperativeHandle, API Calling & Data Fetching, useEffect for fetch, Loading/Error states, Async/await, Websockets & SSE |
-| 4    | Section 2: Foundation Track | Events & Forms, Controlled/Uncontrolled, Formik/React Hook Form, Routing (React Router v6), Dynamic/Nested routes |
-| 5    | Section 2: Foundation Track | Styling (CSS-in-JS, CSS Modules, Sass, Material-UI/Ant Design), Visualisation (Chart.js, Recharts, Victory, Nivo), Accessibility |
-| 6    | Section 2: Foundation Track | Redux/Context API, Prop drilling, createContext, Provider, Consumer, Redux basics, Redux DevTools, When to use Redux vs Context, Type Checking (PropTypes, TypeScript), Error Handling (Error Boundaries, StrictMode) |
-| 7    | Section 2: Foundation Track | Performance Optimization (Intro), Tools for Performance Optimisation, Practice assignments, Review |
-| 8    | Section 3: Advanced Track | Custom Hooks, Performance Optimization (memo, useMemo, useCallback, code splitting, lazy loading), Redux Toolkit, GraphQL, Firebase |
-| 9    | Section 3: Advanced Track | Webpack & Babel, TypeScript (advanced), Animations (Framer Motion, React Spring), Testing (Jest, RTL, Enzyme), SSR (Next.js, SSG, ISR), Portals, HOC, Render Props, PureComponent, StrictMode |
-| 10   | Section 3: Advanced Track | Deployment (Netlify, Vercel, GitHub Pages), CI/CD, Env variables, Internationalization (i18n), Multi-language support, Capstone project, Review, Q&A, Certification prep |
+| 0    | Common: Web Fundamentals (Pre-requisite) | **Common: Web Fundamentals** — HTML, CSS, JavaScript basics, DOM, ES6+, Accessibility |
+| 1    | Section 1: Getting Started with React | **Section 1: Getting Started with React** — What is React, Virtual DOM, JSX vs JS, Setup (Node, npm, VS Code), Project scaffolding, React DevTools, Hello React app, SPA concept |
+| 2    | Section 2: Foundation Track | **Section 2: ES6+ JavaScript Features, JSX & Components, State & Props, List & Conditional Rendering** — ES6+ in React, JSX & Components, Functional vs Class Components, Folder structure, Containers vs Presentational, Fragments, JS in JSX, State & Props, Lifting state, Default props, List & Conditional Rendering, Keys |
+| 3    | Section 2: Foundation Track | **Section 2: Hooks, API Calling & Data Fetching, Events & Forms** — Hooks (useState, useEffect, useRef, useContext, useReducer), Custom hooks, Refs, useImperativeHandle, API Calling & Data Fetching, useEffect for fetch, Loading/Error states, Async/await, Events & Forms, Controlled/Uncontrolled, Formik/React Hook Form |
+| 4    | Section 2: Foundation Track | **Section 2: Routing** — Routing (React Router v6), Dynamic/Nested routes |
+| 5    | Section 2: Foundation Track | **Section 2: Styling** — Styling (CSS-in-JS, CSS Modules, Sass, Material-UI/Ant Design) |
+| 6    | Section 2: Foundation Track | **Section 2: Visualisation, Accessibility, Redux/Context API, Type Checking, Error Handling** — Visualisation (Chart.js, Recharts, Victory, Nivo), Accessibility, Redux/Context API, Prop drilling, createContext, Provider, Consumer, Redux basics, Redux DevTools, When to use Redux vs Context, Type Checking (PropTypes, TypeScript), Error Handling (Error Boundaries, StrictMode) |
+| 7    | Section 2: Foundation Track | **Section 2: Websockets & SSE, Performance Optimization, Tools, Practice Assignments, Review** — Websockets & SSE (socket.io-client, SSE, chat/notification feature), Performance Optimization (Intro), Tools for Performance Optimisation, Practice assignments, Review |
+| 8    | Section 3: Advanced Track | **Section 3: Custom Hooks, Performance Optimization, Redux Toolkit, GraphQL, Firebase** — Custom Hooks, Performance Optimization (memo, useMemo, useCallback, code splitting, lazy loading), Redux Toolkit, GraphQL, Firebase |
+| 9    | Section 3: Advanced Track | **Section 3: Webpack & Babel, TypeScript (advanced), Animations, Testing, SSR, Portals, HOC, Render Props, PureComponent, StrictMode** — Webpack & Babel, TypeScript (advanced), Animations (Framer Motion, React Spring), Testing (Jest, RTL, Enzyme), SSR (Next.js, SSG, ISR), Portals, HOC, Render Props, PureComponent, StrictMode |
+| 10   | Section 3: Advanced Track | **Section 3: Deployment, CI/CD, Env variables, Internationalization, Capstone, Review, Q&A, Certification prep** — Deployment (Netlify, Vercel, GitHub Pages), CI/CD, Env variables, Internationalization (i18n), Multi-language support, Capstone project, Review, Q&A, Certification prep |
 
 **Note:** Learners may progress faster or slower depending on prior experience. Instructors can adjust the pace and track completion of each week’s checklist.
 
