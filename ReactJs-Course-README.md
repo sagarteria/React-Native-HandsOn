@@ -126,6 +126,10 @@ Key Focus:
     2.2 Topics & Goals:
         2.2.1 ES6+ JavaScript Features:
             ○ Use classes, arrow functions, destructuring, and modules as used in React
+            ○ Reference Links:
+                - freeCodeCamp: How to use ES6 features in React (modules, destructuring, spread, arrow functions, template literals) - https://www.freecodecamp.org/news/how-to-use-es6-javascript-features-in-react/
+                - W3Schools: React ES6 essentials (classes, arrow functions, map, destructuring, modules, ternary, spread) - https://www.w3schools.com/react/react_es6.asp
+                - ExpertBeacon: How to use ES6 features in React (why ES6 matters in React, practical patterns) - https://expertbeacon.com/how-to-use-es6-features-in-react/
         2.2.2 JSX & Components:
             ○ Build modular UI using reusable React components
             ○ Understand the difference between functional and class components
@@ -135,17 +139,33 @@ Key Focus:
             ○ Use React Fragments to group elements without extra DOM nodes
             ○ JS Expressions in JSX: Embedding JavaScript logic in UI
             ○ Default input values in forms and components
+            ○ Reference Links:
+                - OpenClassrooms: Write modular code with components in JSX (JSX rules, component composition, thinking in components) - https://openclassrooms.com/en/courses/7132446-create-a-web-application-with-react-js/7206436-write-modular-code-with-components-in-jsx
+                - ScroBits: Mastering JSX in React — building reusable and interactive UI components (best practices) - https://www.scrobits.com/blog/mastering-jsx-in-react-building-reusable-and-interactive-ui-components
+                - GeeksforGeeks: How to make reusable React components (props, composition, memoization tips) -https://www.geeksforgeeks.org/reactjs/how-to-make-reusable-react-components/
+                - React (Accessibility docs) — Fragments examples for grouping without extra DOM wrappers (also shows keyed fragments) - https://legacy.reactjs.org/docs/accessibility.html
+                - Accessibility in ReactJS - https://www.geeksforgeeks.org/reactjs/accessibility-in-reactjs/
+                - Accessibility in React: Best Practices for Building Inclusive Web Apps - https://medium.com/@ignatovich.dm/accessibility-in-react-best-practices-for-building-inclusive-web-apps-906d1cbedd27
+                - Accessibility in React - https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_accessibility
+                - ReactJS - Accessibility - https://www.tutorialspoint.com/reactjs/reactjs_accessibility.htm
 
         2.2.3 State & Props:
             ○ Manage component state effectively
             ○ Pass data between components using props
             ○ Understand the concept of lifting state up
             ○ Use default props and destructuring
+            ○ Reference Links:
+                - React.dev: Sharing state between components (lifting state up; controlled vs uncontrolled overview) - https://react.dev/learn/sharing-state-between-components
+                - GeeksforGeeks: Lifting state up in ReactJS (when and how, step-by-step) - https://www.geeksforgeeks.org/reactjs/lifting-state-up-in-reactjs/
+                - ReactTutorial: Props and state management in React (intro-friendly walkthrough) - https://www.reacttutorial.com/props-and-state-management-in-react
 
         2.2.4 List & Conditional Rendering:
             ○ Render lists of components using map
             ○ Understand the importance of keys in lists and why not to use index as key unless necessary
             ○ Implement conditional rendering (ternary, &&, etc.)
+            ○ Reference Links:
+                - DEV Community: Conditional rendering and rendering lists in React (&&, ternary, keys, why not use index) - https://dev.to/debajit13/conditional-rendering-and-rendering-list-in-react-4886
+                - GeeksforGeeks: React conditional rendering (if/else, ternary, &&, lists) - https://www.geeksforgeeks.org/reactjs/reactjs-conditional-rendering/
 
         2.2.5 Hooks (useState, useEffect, useRef):
             ○ Introduction to React component lifecycle (with hooks)
@@ -154,6 +174,10 @@ Key Focus:
             ○ Learn when and how to use custom hooks
             ○ Use refs and forward refs to access and manipulate DOM nodes
             ○ Use useImperativeHandle to customize instance values exposed to parent components
+            ○ Reference Links:
+                - freeCodeCamp: useEffect, useState, and useContext — code examples for beginners - https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/
+                - AlmaBetter: React hooks — useState, useEffect, useRef, custom hooks overview - https://www.almabetter.com/bytes/tutorials/reactjs/reactjs-hooks
+                - Codecademy: How to use hooks in React with examples (core hooks, patterns, benefits) - https://www.codecademy.com/article/how-to-use-hooks-in-react-js-with-examples
 
         2.2.6 API Calling & Data Fetching:
             ○ Fetch data from APIs using fetch or Axios (in detail)
@@ -161,18 +185,28 @@ Key Focus:
             ○ Handle loading and error states
             ○ Use async/await for asynchronous operations
             ○ Understand best practices for separating data fetching logic
+            ○ Reference Links:
+                - GeeksforGeeks: Fetching data from an API with useEffect and useState (patterns, examples) - https://www.geeksforgeeks.org/reactjs/fetching-data-from-an-api-with-useeffect-and-usestate-hook/
+                - CodingTag: Using useEffect with async data fetching (correct async pattern, loading/error state, AbortController) - https://www.codingtag.com/using-it-with-async-data-fetching
 
         2.2.7 Events & Forms:
             ○ Implement user interactions and validate inputs
             ○ Understand controlled vs uncontrolled components
             ○ Learn form handling libraries like Formik or React Hook Form
             ○ Sharing events and data between components
+            ○ Reference Links:
+                - DEV Community: The ultimate guide to handling forms in React (controlled vs uncontrolled, Formik, React Hook Form, validation) - https://dev.to/marie_berezhna/the-ultimate-guide-to-handling-forms-in-react-1n2o
+                - React Hook Form docs: useForm API (validation modes, default values, schema resolvers) - https://www.react-hook-form.com/api/useform/
+                - freeCodeCamp: Controlled vs uncontrolled components in React (when to use which, examples) - https://www.freecodecamp.org/news/what-are-controlled-and-uncontrolled-components-in-react/
 
         2.2.8 Routing:
             ○ Navigate across views/pages using React Router v6
             ○ Understand dynamic routing and route parameters
             ○ Learn about nested routes and route guards
             ○ Single Page Application (SPA) navigation and history
+            ○ Reference Links:
+                - CodingEasyPeasy: React Router v6 — dynamic routing, basics to nested routes, hooks - https://www.codingeasypeasy.com/blog/react-router-v6-the-ultimate-guide-for-dynamic-routing-in-react-applications
+                - ui.dev: The guide to nested routes with React Router (Routes, Route, Outlet mental models) - https://ui.dev/react-router-nested-routes
 
         2.2.9 Styling:
             ○ Apply styles using multiple approaches for clean design
@@ -180,6 +214,14 @@ Key Focus:
             ○ Learn about CSS modules and their benefits
             ○ Use Sass for advanced styling
             ○ Material-UI/Ant Design Framework: Leverage Material-UI/Ant Design for pre-designed components and consistent theming (in detail)
+            ○ Reference Links:
+                - Emotion docs: Introduction to Emotion (css prop, styled API, theming, SSR) - https://emotion.sh/docs/introduction
+                - Material UI docs: Style library interoperability (Emotion default engine, styled-components, CSS injection order) - https://mui.com/material-ui/integrations/interoperability/
+                - DEV Community: CSS‑in‑JS guide to styled‑components and Emotion (clean, scalable styling) - https://dev.to/okoye_ndidiamaka_5e3b7d30/css-in-js-complete-guide-to-styled-components-emotion-and-more-for-cleaner-and-scalable-styling-33dk
+                - GeeksforGeeks: React Material UI - https://www.geeksforgeeks.org/reactjs/react-material-ui/
+                - Tutorialspoint: ReactJS - Material UI - https://www.tutorialspoint.com/reactjs/reactjs_material_ui.htm
+                - Material UI: https://mui.com/material-ui/
+                - Ant Design: https://ant.design/
 
         2.2.10 Redux/Context API:
             ○ Manage global state and structure application flow
@@ -189,35 +231,70 @@ Key Focus:
             ○ Setting up Redux in a React app (basic example)
             ○ Using Redux DevTools for debugging
             ○ When to use Redux vs Context API
+            ○ Reference Links:
+                - GeeksforGeeks: State management in React — Hooks, Context API and Redux (when to use each) - https://www.geeksforgeeks.org/reactjs/state-management-in-react-hooks-context-api-and-redux/
+                - DEV Community: Redux vs Context API — when to use them (tradeoffs and scenarios) - https://dev.to/ruppysuppy/redux-vs-context-api-when-to-use-them-4k3p
+                - CodezUp: Mastering React state management — Context API & Redux (setup and best practices) - https://codezup.com/mastering-react-state-management-context-api-redux/
 
         2.2.11 Performance Optimization (Intro):
             ○ Understand the basics of React.memo for optimizing component rendering (details in Advanced Track)
+            ○ Reference Links:
+                - DEV Community: Optimizing React performance with React.memo, useCallback, and useMemo (prevent unnecessary re‑renders) - https://dev.to/willon/optimizing-react-performance-with-reactmemo-usecallback-and-usememo-3ghk
+                - GeeksforGeeks: How does React.memo optimize functional components (when and how) - https://www.geeksforgeeks.org/reactjs/how-does-react-memo-optimize-functional-components-in-react/
 
         2.2.12 Tools for Performance Optimisation:
             ○ Explore tools like React Profiler, Chrome DevTools, Lighthouse, and Web Vitals for measuring and improving app performance
             ○ Analyze bundle size with Webpack Bundle Analyzer
             ○ Use code-splitting and lazy loading for better performance
+            ○ Reference Links:
+                - Chrome Developers: Analyze runtime performance with Chrome DevTools Performance panel (FPS, CPU, flame charts) - https://developer.chrome.com/docs/devtools/performance
+                - web.dev (Google): Optimizing Web Vitals using Lighthouse (Core Web Vitals, diagnostics, screenshots) - https://web.dev/articles/optimize-vitals-lighthouse
+                - DEV Community: Understanding Lighthouse, Web Vitals & PageSpeed reports (React/Next.js fixes) - https://dev.to/maurya-sachin/understanding-lighthouse-web-vitals-pagespeed-reports-4ji8
 
         2.2.13 Websockets & SSE (Server-Sent Events):
             ○ Understand real-time data communication in React apps
             ○ Use Websockets (e.g., socket.io-client) for bidirectional communication
             ○ Use Server-Sent Events for one-way real-time updates
             ○ Implement a simple chat or live notification feature
+            ○ Reference Links:
+                - LogRocket: React WebSocket tutorial — real‑time messaging with WebSockets and Socket.IO (concepts + React hooks) - https://blog.logrocket.com/websocket-tutorial-socket-io/
+                - GeeksforGeeks: Real‑time updates with WebSockets and React hooks (server + client walkthrough) - https://www.geeksforgeeks.org/reactjs/real-time-updates-with-websockets-and-react-hooks/
+                - CodezUp: Building a React app with real‑time data feed using WebSockets (server, client, best practices) - https://codezup.com/react-application-real-time-data-feed-websockets/
 
         2.2.14 Visualisation:
             ○ Integrate charting and visualization libraries (e.g., Chart.js, Recharts, Victory, Nivo.Rocks)
             ○ Display data visually using charts, graphs, and dashboards
             ○ Best practices for visualizing large datasets
+            ○ Reference Links:
+                - npm‑compare: JavaScript charting libraries comparison (Chart.js, Recharts, ECharts, ApexCharts, Victory, etc.) - https://npm-compare.com/apexcharts,billboard.js,chart.js,chartist,echarts,recharts,victory-chart
+                - Monterail: Top JavaScript graph visualization libraries (pros/cons, selection criteria) - https://www.monterail.com/blog/javascript-libraries-data-visualization
+                - Victory: Official page — React charting components and getting started - https://awesome.cube.dev/tools/victory
+                - Recharts - https://recharts.org/en-US
+                - Nivo.Rocks - https://nivo.rocks/
+                - Chartjs - https://www.chartjs.org/
+                - Syncfusion - How To Render Large Datasets In React without Killing Performance - https://www.syncfusion.com/blogs/post/render-large-datasets-in-react
+                - Ways to render large datasets in React - https://blog.logrocket.com/3-ways-render-large-datasets-react/
 
         2.2.15 Type Checking:
             ○ Use PropTypes or TypeScript for type safety
+            ○ Reference Links:
+                - DEV Community: One‑stop guide to type safety in TypeScript (type checks, guards, unions, runtime validation) - https://dev.to/devcorner/one-stop-guide-to-type-safety-in-typescript-all-ways-to-perform-type-checks-30em
+                - GeeksforGeeks: How to check types in TypeScript (typeof, instanceof, custom type guards) - https://www.geeksforgeeks.org/typescript/how-to-check-types-in-typescript/
 
         2.2.16 Error Handling:
             ○ Understand and use Error Boundaries for catching errors in components (including getDerivedStateFromError)
             ○ Use React.StrictMode to identify unsafe lifecycle methods and potential issues
+            ○ Reference Links:
+                - GeeksforGeeks: React.js Error Boundaries (what they catch, implementation, examples) - https://www.geeksforgeeks.org/reactjs/react-js-error-boundaries/
+                - LogRocket: React error handling with react‑error‑boundary (modern error boundaries, async considerations) - https://blog.logrocket.com/react-error-handling-react-error-boundary/
+                - DEV Community: Exploring Error Boundary in React (limitations, fallback UI, best practices) - https://dev.to/m_midas/exploring-error-boundary-in-react-enhancing-robustness-and-error-handling-3457
 
         2.2.17 Accessibility (a11y):
             ○ Learn and apply basic accessibility practices in React apps
+            ○ Reference Links:
+                - React (Accessibility docs): WCAG and WAI‑ARIA, semantic HTML, fragments, forms, focus management - https://legacy.reactjs.org/docs/accessibility.html
+                - DEV Community: A deep dive into web accessibility (a11y) for React developers (ARIA, keyboard nav, contrast, tools) - https://dev.to/ayusharpcoder/a-deep-dive-into-web-accessibility-a11y-for-react-developers-58nh
+                - Trailhead Technology: Accessible React apps — a11y best practices and tools (linting, testing, automation) - https://trailheadtechnology.com/accessible-react-apps-a-guide-to-a11y-best-practices-and-tools/
 
 **Practice Assignments:**
     - Build a simple counter app using state and props.
