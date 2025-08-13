@@ -291,75 +291,86 @@ This section covers the essential web development fundamentals that are a pre-re
     **4.1 Objective:**
         Learn the basics of TypeScript and how to use it for type safety, maintainability, and scalability in modern web applications.
     **4.2 Topics & Goals:**
+
         4.2.1 What is TypeScript? Why use it?
+        **Reference Links:**
             - TypeScript Official: Introduction - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
             - freeCodeCamp: What is TypeScript? - https://www.freecodecamp.org/news/what-is-typescript/
             - W3Schools: TypeScript Overview - https://www.w3schools.com/typescript/index.php
-                **Practice Assignment:**
-                - Write a short note on why TypeScript is useful for web development.
-                - Install TypeScript in a project and compile a simple .ts file.
+        **Practice Assignment:**
+            - Write a short note on why TypeScript is useful for web development.
+            - Install TypeScript in a project and compile a simple .ts file.
         4.2.2 Type annotations and basic types (string, number, boolean, array, object)
+        **Reference Links:**
             - TypeScript Official: Basic Types - https://www.typescriptlang.org/docs/handbook/basic-types.html
             - W3Schools: TypeScript Types - https://www.w3schools.com/typescript/typescript_simple_types.php
             - TutorialsPoint: TypeScript Types - https://www.tutorialspoint.com/typescript/typescript_types.htm
-                **Practice Assignment:**
-                - Declare variables with explicit types (string, number, boolean, array, object).
-                - Write a function that takes typed parameters and returns a typed value.
+        **Practice Assignment:**
+            - Declare variables with explicit types (string, number, boolean, array, object).
+            - Write a function that takes typed parameters and returns a typed value.
         4.2.3 Interfaces and type aliases
+        **Reference Links:**
             - TypeScript Official: Interfaces - https://www.typescriptlang.org/docs/handbook/interfaces.html
             - TypeScript Official: Type Aliases - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases
             - W3Schools: TypeScript Interfaces - https://www.w3schools.com/typescript/typescript_aliases_and_interfaces.php
-                **Practice Assignment:**
-                - Create an interface for a User object and use it in a function.
-                - Define a type alias for a union type and use it in a variable declaration.
+        **Practice Assignment:**
+            - Create an interface for a User object and use it in a function.
+            - Define a type alias for a union type and use it in a variable declaration.
         4.2.4 Functions and parameter typing
+        **Reference Links:**
             - TypeScript Official: Functions - https://www.typescriptlang.org/docs/handbook/functions.html
             - TutorialsTeacher: TypeScript Functions - https://www.tutorialsteacher.com/typescript/typescript-function
             - W3Schools: TypeScript Functions - https://www.w3schools.com/typescript/typescript_functions.php
-                **Practice Assignment:**
-                - Write a function with typed parameters and a typed return value.
-                - Use optional and default parameters in a TypeScript function.
+        **Practice Assignment:**
+            - Write a function with typed parameters and a typed return value.
+            - Use optional and default parameters in a TypeScript function.
         4.2.5 Classes and object-oriented features
+        **Reference Links:**
             - TypeScript Official: Classes - https://www.typescriptlang.org/docs/handbook/classes.html
             - TutorialsTeacher: TypeScript Classes - https://www.tutorialsteacher.com/typescript/typescript-class
             - W3Schools: TypeScript Classes - https://www.w3schools.com/typescript/typescript_classes.php
-                **Practice Assignment:**
-                - Create a class with properties and methods, and instantiate it.
-                - Use access modifiers (public, private, protected) in a class.
+        **Practice Assignment:**
+            - Create a class with properties and methods, and instantiate it.
+            - Use access modifiers (public, private, protected) in a class.
         4.2.6 Type inference and type assertions
+        **Reference Links:**
             - TypeScript Official: Type Inference - https://www.typescriptlang.org/docs/handbook/type-inference.html
             - TypeScript Official: Type Assertions - https://www.typescriptlang.org/docs/handbook/basic-types.html#type-assertions
             - TutorialsTeacher: TypeScript Type Assertion - https://www.tutorialsteacher.com/typescript/type-assertion
-                **Practice Assignment:**
-                - Demonstrate type inference by declaring variables without explicit types.
-                - Use type assertions to convert a variable from one type to another.
+        **Practice Assignment:**
+            - Demonstrate type inference by declaring variables without explicit types.
+            - Use type assertions to convert a variable from one type to another.
         4.2.7 Union, intersection, and literal types
+        **Reference Links:**
             - TypeScript Official: Union Types - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
             - TypeScript Official: Intersection Types - https://www.typescriptlang.org/docs/handbook/advanced-types.html#intersection-types
             - TutorialsTeacher: TypeScript Union Types - https://www.tutorialsteacher.com/typescript/typescript-union
-                **Practice Assignment:**
-                - Create a variable that can hold multiple types using a union type.
-                - Define an intersection type and use it in an object.
+        **Practice Assignment:**
+            - Create a variable that can hold multiple types using a union type.
+            - Define an intersection type and use it in an object.
         4.2.8 Working with modules and imports
+        **Reference Links:**
             - TypeScript Official: Modules - https://www.typescriptlang.org/docs/handbook/modules.html
             - Digitalocean: How To Use Modules in TypeScript - https://www.digitalocean.com/community/tutorials/how-to-use-modules-in-typescript
-                **Practice Assignment:**
-                - Create two TypeScript files and import/export a function between them.
-                - Use ES6 import/export syntax in a TypeScript project.
+        **Practice Assignment:**
+            - Create two TypeScript files and import/export a function between them.
+            - Use ES6 import/export syntax in a TypeScript project.
         4.2.9 TypeScript with React (JSX, props, state)
+        **Reference Links:**
             - React + TypeScript Cheatsheets - https://react-typescript-cheatsheet.netlify.app/
             - TypeScript Official: JSX - https://www.typescriptlang.org/docs/handbook/jsx.html
             - freeCodeCamp: Using TypeScript with React - https://www.freecodecamp.org/news/use-typescript-with-react/
-                **Practice Assignment:**
-                - Create a simple React component in TypeScript with typed props and state.
-                - Refactor a JavaScript React component to TypeScript and add type annotations.
+        **Practice Assignment:**
+            - Create a simple React component in TypeScript with typed props and state.
+            - Refactor a JavaScript React component to TypeScript and add type annotations.
         4.2.10 Tooling: tsconfig, compiler, and IDE support
+        **Reference Links:**
             - TypeScript Official: tsconfig.json - https://www.typescriptlang.org/tsconfig
             - TypeScript Official: Compiler Options - https://www.typescriptlang.org/docs/handbook/compiler-options.html
             - Visual Studio Code: TypeScript in VS Code - https://code.visualstudio.com/docs/languages/typescript
-                **Practice Assignment:**
-                - Create a tsconfig.json file and configure basic compiler options.
-                - Use VS Code to write and debug TypeScript code with IntelliSense and error checking.
+        **Practice Assignment:**
+            - Create a tsconfig.json file and configure basic compiler options.
+            - Use VS Code to write and debug TypeScript code with IntelliSense and error checking.
 
 ---
 
