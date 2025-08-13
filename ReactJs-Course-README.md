@@ -68,12 +68,33 @@ This section covers the essential web development fundamentals that are a pre-re
         Learn the foundational building blocks of web pages and how to create accessible, semantic HTML structures.
     **1.2 Topics & Goals:**
         1.2.1 Structure and semantics of web pages
+            - MDN: HTML Introduction & Structure - https://developer.mozilla.org/en-US/docs/Web/HTML
+            - freeCodeCamp: Semantic HTML Explained - https://www.freecodecamp.org/news/semantic-html5-elements/
+            - W3Schools: HTML Page Structure - https://www.w3schools.com/html/html_intro.asp
         1.2.2 Common tags and attributes
+            - MDN: HTML Elements Reference - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+            - W3Schools: HTML Tags List - https://www.w3schools.com/tags/default.asp
+            - HTML.com: Common HTML Tags - https://html.com/tags/
         1.2.3 Forms and input elements
+            - MDN: HTML Forms Guide - https://developer.mozilla.org/en-US/docs/Learn/Forms
+            - W3Schools: HTML Forms - https://www.w3schools.com/html/html_forms.asp
+            - freeCodeCamp: HTML Forms Tutorial - https://www.freecodecamp.org/news/how-to-use-html-forms/
         1.2.4 Semantic tags (header, nav, main, footer)
+            - MDN: Semantic HTML Elements - https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+            - W3Schools: Semantic Elements - https://www.w3schools.com/html/html5_semantic_elements.asp
+            - HTML.com: Semantic Tags - https://html.com/semantic-markup/
         1.2.5 Tables for data display
+            - MDN: HTML Tables - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+            - W3Schools: HTML Tables - https://www.w3schools.com/html/html_tables.asp
+            - freeCodeCamp: How to Build Tables in HTML - https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/
         1.2.6 Embedding media (images, video, audio)
+            - MDN: Embedding Images, Video, Audio - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding
+            - W3Schools: HTML Media - https://www.w3schools.com/html/html_media.asp
+            - HTML.com: Embedding Media - https://html.com/media/
         1.2.7 Accessibility basics (alt text, ARIA attributes)
+            - MDN: Accessibility - https://developer.mozilla.org/en-US/docs/Web/Accessibility
+            - W3Schools: HTML Accessibility - https://www.w3schools.com/accessibility/index.php
+            - WebAIM: Alternative Text Basics - https://webaim.org/techniques/alttext/
 
 **Section: 2 - CSS (Cascading Style Sheets):**
     **2.1 Objective:**
