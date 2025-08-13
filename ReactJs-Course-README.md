@@ -199,82 +199,93 @@ This section covers the essential web development fundamentals that are a pre-re
     **3.1 Objective:**
         Gain the skills to add interactivity, logic, and dynamic behavior to web pages using modern JavaScript.
     **3.2 Topics & Goals:**
+
         3.2.1 Variables, data types, and operators
+        **Reference Links:**
             - MDN: JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
             - W3Schools: JavaScript Data Types - https://www.w3schools.com/js/js_datatypes.asp
             - freeCodeCamp: JavaScript Variables and Data Types - https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/
-                **Practice Assignment:**
-                - Declare variables using let, const, and var. Assign different data types and use basic operators.
-                - Write a function to add two numbers and display the result.
+        **Practice Assignment:**
+            - Declare variables using let, const, and var. Assign different data types and use basic operators.
+            - Write a function to add two numbers and display the result.
         3.2.2 Functions, loops, and conditionals
+        **Reference Links:**
             - MDN: Functions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
             - MDN: Loops and Iteration - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
             - W3Schools: JavaScript Functions - https://www.w3schools.com/js/js_functions.asp
             - W3Schools: JavaScript Loops - https://www.w3schools.com/js/js_loop_for.asp
             - W3Schools: JavaScript If...Else - https://www.w3schools.com/js/js_if_else.asp
-                **Practice Assignment:**
-                - Write a function that checks if a number is even or odd using conditionals.
-                - Loop through an array and print each value to the console.
+        **Practice Assignment:**
+            - Write a function that checks if a number is even or odd using conditionals.
+            - Loop through an array and print each value to the console.
         3.2.3 Arrays and objects
+        **Reference Links:**
             - MDN: Arrays - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
             - MDN: Objects - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
             - W3Schools: JavaScript Arrays - https://www.w3schools.com/js/js_arrays.asp
             - W3Schools: JavaScript Objects - https://www.w3schools.com/js/js_objects.asp
-                **Practice Assignment:**
-                - Create an array of colors and add/remove items using array methods.
-                - Create an object to represent a person (name, age, city) and access its properties.
+        **Practice Assignment:**
+            - Create an array of colors and add/remove items using array methods.
+            - Create an object to represent a person (name, age, city) and access its properties.
         3.2.4 JSON basics
+        **Reference Links:**
             - MDN: JSON - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
             - W3Schools: JSON Introduction - https://www.w3schools.com/js/js_json_intro.asp
             - freeCodeCamp: What is JSON? - https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
-                **Practice Assignment:**
-                - Convert a JavaScript object to a JSON string and back.
-                - Parse a sample JSON response and access its data.
+        **Practice Assignment:**
+            - Convert a JavaScript object to a JSON string and back.
+            - Parse a sample JSON response and access its data.
         3.2.5 DOM manipulation and event handling
+        **Reference Links:**
             - MDN: Introduction to the DOM - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
             - MDN: Using the Document Object Model - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Using_the_Document_Object_Model
             - W3Schools: JavaScript HTML DOM - https://www.w3schools.com/js/js_htmldom.asp
             - freeCodeCamp: JavaScript DOM Tutorial - https://www.freecodecamp.org/news/dom-manipulation-in-javascript/
-                **Practice Assignment:**
-                - Select an element by ID and change its text content using JavaScript.
-                - Add a button to your page and display an alert when it is clicked.
+        **Practice Assignment:**
+            - Select an element by ID and change its text content using JavaScript.
+            - Add a button to your page and display an alert when it is clicked.
         3.2.6 ES6+ features (let/const, arrow functions, template literals)
+        **Reference Links:**
             - MDN: ES6 Features - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
             - MDN: Arrow Functions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
             - MDN: Template Literals - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
             - W3Schools: ES6 Tutorial - https://www.w3schools.com/js/js_es6.asp
-                **Practice Assignment:**
-                - Rewrite a regular function as an arrow function.
-                - Use template literals to create a greeting message with variables.
+        **Practice Assignment:**
+            - Rewrite a regular function as an arrow function.
+            - Use template literals to create a greeting message with variables.
         3.2.7 Event listeners
+        **Reference Links:**
             - MDN: EventTarget.addEventListener() - https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
             - W3Schools: JavaScript Events - https://www.w3schools.com/js/js_events.asp
             - freeCodeCamp: JavaScript Event Listeners Explained - https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/
-                **Practice Assignment:**
-                - Add a click event listener to a button and log a message to the console.
-                - Add a mouseover event to change the color of an element when hovered.
+        **Practice Assignment:**
+            - Add a click event listener to a button and log a message to the console.
+            - Add a mouseover event to change the color of an element when hovered.
         3.2.8 Scope and hoisting
+        **Reference Links:**
             - MDN: Variable Scope - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#variable_scope
             - MDN: Hoisting - https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
             - W3Schools: JavaScript Scope - https://www.w3schools.com/js/js_scope.asp
             - W3Schools: JavaScript Hoisting - https://www.w3schools.com/js/js_hoisting.asp
-                **Practice Assignment:**
-                - Demonstrate variable scope by declaring variables inside and outside a function.
-                - Show the effect of hoisting with a function and variable declaration.
+        **Practice Assignment:**
+            - Demonstrate variable scope by declaring variables inside and outside a function.
+            - Show the effect of hoisting with a function and variable declaration.
         3.2.9 Basic error handling (try/catch)
+        **Reference Links:**
             - MDN: Error Handling - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements
             - W3Schools: JavaScript Errors - https://www.w3schools.com/js/js_errors.asp
             - freeCodeCamp: JavaScript Error Handling - https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/
-                **Practice Assignment:**
-                - Write a function that throws an error for invalid input and catches it using try/catch.
-                - Log the error message to the console.
+        **Practice Assignment:**
+            - Write a function that throws an error for invalid input and catches it using try/catch.
+            - Log the error message to the console.
         3.2.10 Basic debugging (console.log)
+        **Reference Links:**
             - MDN: Debugging JavaScript - https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Debugging_JavaScript
             - W3Schools: JavaScript Debugging - https://www.w3schools.com/js/js_debugging.asp
             - freeCodeCamp: How to Debug JavaScript - https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/
-                **Practice Assignment:**
-                - Use console.log to debug a function and display variable values.
-                - Find and fix a bug in a sample code snippet using browser DevTools.
+        **Practice Assignment:**
+            - Use console.log to debug a function and display variable values.
+            - Find and fix a bug in a sample code snippet using browser DevTools.
 
 **Section: 4 - TypeScript:**
     **4.1 Objective:**
