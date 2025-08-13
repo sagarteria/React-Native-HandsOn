@@ -101,13 +101,38 @@ This section covers the essential web development fundamentals that are a pre-re
         Understand how to style and layout web pages for modern, responsive, and visually appealing user interfaces.
     **2.2 Topics & Goals:**
         2.2.1 Styling basics (selectors, properties, values)
+            - MDN: CSS Basics - https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
+            - W3Schools: CSS Selectors - https://www.w3schools.com/css/css_selectors.asp
+            - CSS-Tricks: CSS Selectors Reference - https://css-tricks.com/almanac/selectors/
         2.2.2 Box model and layout techniques
+            - MDN: CSS Box Model - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+            - W3Schools: CSS Box Model - https://www.w3schools.com/css/css_boxmodel.asp
+            - freeCodeCamp: CSS Box Model Explained - https://www.freecodecamp.org/news/css-box-model-explained-with-examples/
         2.2.3 Responsive design principles
+            - MDN: Responsive Design - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
+            - W3Schools: Responsive Web Design - https://www.w3schools.com/css/css_rwd_intro.asp
+            - CSS-Tricks: Responsive Web Design Basics - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
         2.2.4 Flexbox and Grid for layout
+            - MDN: CSS Flexbox - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+            - MDN: CSS Grid - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+            - CSS-Tricks: A Complete Guide to Flexbox - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+            - CSS-Tricks: A Complete Guide to Grid - https://css-tricks.com/snippets/css/complete-guide-grid/
         2.2.5 CSS transitions and basic animations
+            - MDN: CSS Transitions - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+            - MDN: CSS Animations - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+            - W3Schools: CSS Animation - https://www.w3schools.com/css/css3_animations.asp
         2.2.6 CSS variables
+            - MDN: CSS Variables - https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+            - W3Schools: CSS Variables - https://www.w3schools.com/css/css3_variables.asp
+            - CSS-Tricks: CSS Custom Properties - https://css-tricks.com/css-variables/
         2.2.7 Media queries for responsiveness
+            - MDN: Media Queries - https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries
+            - W3Schools: CSS Media Queries - https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+            - CSS-Tricks: Media Queries for Standard Devices - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
         2.2.8 Specificity and cascade
+            - MDN: CSS Specificity - https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+            - W3Schools: CSS Specificity - https://www.w3schools.com/css/css_specificity.asp
+            - CSS-Tricks: CSS Specificity Wars - https://css-tricks.com/specifics-on-css-specificity/
 
 **Section: 3 - JavaScript:**
     **3.1 Objective:**
