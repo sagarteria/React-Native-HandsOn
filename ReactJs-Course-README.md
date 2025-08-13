@@ -71,30 +71,51 @@ This section covers the essential web development fundamentals that are a pre-re
             - MDN: HTML Introduction & Structure - https://developer.mozilla.org/en-US/docs/Web/HTML
             - freeCodeCamp: Semantic HTML Explained - https://www.freecodecamp.org/news/semantic-html5-elements/
             - W3Schools: HTML Page Structure - https://www.w3schools.com/html/html_intro.asp
+            **Practice Assignment:**
+            - Create a simple HTML page with a header, main content, and footer. Use semantic tags appropriately.
+            - Add a title and meta description to the page.
         1.2.2 Common tags and attributes
             - MDN: HTML Elements Reference - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
             - W3Schools: HTML Tags List - https://www.w3schools.com/tags/default.asp
             - HTML.com: Common HTML Tags - https://html.com/tags/
+            **Practice Assignment:**
+            - List five commonly used HTML tags and write a sample usage for each.
+            - Add alt text to an image and use at least three different attributes in a tag.
         1.2.3 Forms and input elements
             - MDN: HTML Forms Guide - https://developer.mozilla.org/en-US/docs/Learn/Forms
             - W3Schools: HTML Forms - https://www.w3schools.com/html/html_forms.asp
             - freeCodeCamp: HTML Forms Tutorial - https://www.freecodecamp.org/news/how-to-use-html-forms/
+            **Practice Assignment:**
+            - Build a contact form with input fields for name, email, and message. Add a submit button.
+            - Use label and input elements, and ensure accessibility with proper attributes.
         1.2.4 Semantic tags (header, nav, main, footer)
             - MDN: Semantic HTML Elements - https://developer.mozilla.org/en-US/docs/Glossary/Semantics
             - W3Schools: Semantic Elements - https://www.w3schools.com/html/html5_semantic_elements.asp
             - HTML.com: Semantic Tags - https://html.com/semantic-markup/
+            **Practice Assignment:**
+            - Refactor a non-semantic HTML layout to use semantic tags (header, nav, main, footer).
+            - Explain the benefits of semantic tags for accessibility and SEO.
         1.2.5 Tables for data display
             - MDN: HTML Tables - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
             - W3Schools: HTML Tables - https://www.w3schools.com/html/html_tables.asp
             - freeCodeCamp: How to Build Tables in HTML - https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/
+            **Practice Assignment:**
+            - Create a table to display a list of products (name, price, category).
+            - Add a caption and use thead, tbody, and tfoot elements.
         1.2.6 Embedding media (images, video, audio)
             - MDN: Embedding Images, Video, Audio - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding
             - W3Schools: HTML Media - https://www.w3schools.com/html/html_media.asp
             - HTML.com: Embedding Media - https://html.com/media/
+            **Practice Assignment:**
+            - Embed an image, a video, and an audio file in a web page.
+            - Use controls for video and audio, and add alt text for images.
         1.2.7 Accessibility basics (alt text, ARIA attributes)
             - MDN: Accessibility - https://developer.mozilla.org/en-US/docs/Web/Accessibility
             - W3Schools: HTML Accessibility - https://www.w3schools.com/accessibility/index.php
             - WebAIM: Alternative Text Basics - https://webaim.org/techniques/alttext/
+            **Practice Assignment:**
+            - Add alt text to all images and use ARIA attributes in a form.
+            - Test your page with a screen reader or accessibility tool and note improvements.
 
 **Section: 2 - CSS (Cascading Style Sheets):**
     **2.1 Objective:**
