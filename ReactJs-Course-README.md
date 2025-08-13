@@ -128,61 +128,70 @@ This section covers the essential web development fundamentals that are a pre-re
     **2.1 Objective:**
         Understand how to style and layout web pages for modern, responsive, and visually appealing user interfaces.
     **2.2 Topics & Goals:**
+
         2.2.1 Styling basics (selectors, properties, values)
+        **Reference Links:**
             - MDN: CSS Basics - https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
             - W3Schools: CSS Selectors - https://www.w3schools.com/css/css_selectors.asp
             - CSS-Tricks: CSS Selectors Reference - https://css-tricks.com/almanac/selectors/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Create a stylesheet to style headings, paragraphs, and links using different selectors.
             - Change the color, font, and spacing of text elements.
         2.2.2 Box model and layout techniques
+        **Reference Links:**
             - MDN: CSS Box Model - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
             - W3Schools: CSS Box Model - https://www.w3schools.com/css/css_boxmodel.asp
             - freeCodeCamp: CSS Box Model Explained - https://www.freecodecamp.org/news/css-box-model-explained-with-examples/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Create a card layout using divs and apply padding, margin, and border.
             - Use developer tools to inspect and adjust the box model properties.
         2.2.3 Responsive design principles
+        **Reference Links:**
             - MDN: Responsive Design - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
             - W3Schools: Responsive Web Design - https://www.w3schools.com/css/css_rwd_intro.asp
             - CSS-Tricks: Responsive Web Design Basics - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Make a web page layout that adapts to mobile and desktop screens.
             - Use percentage widths and max-width for images and containers.
         2.2.4 Flexbox and Grid for layout
+        **Reference Links:**
             - MDN: CSS Flexbox - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
             - MDN: CSS Grid - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
             - CSS-Tricks: A Complete Guide to Flexbox - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
             - CSS-Tricks: A Complete Guide to Grid - https://css-tricks.com/snippets/css/complete-guide-grid/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Build a navigation bar using Flexbox.
             - Create a simple photo gallery layout using CSS Grid.
         2.2.5 CSS transitions and basic animations
+        **Reference Links:**
             - MDN: CSS Transitions - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
             - MDN: CSS Animations - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
             - W3Schools: CSS Animation - https://www.w3schools.com/css/css3_animations.asp
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Add a hover effect to buttons using CSS transitions.
             - Animate an element to move or fade in using keyframes.
         2.2.6 CSS variables
+        **Reference Links:**
             - MDN: CSS Variables - https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
             - W3Schools: CSS Variables - https://www.w3schools.com/css/css3_variables.asp
             - CSS-Tricks: CSS Custom Properties - https://css-tricks.com/css-variables/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Define and use CSS variables for colors and spacing in a stylesheet.
             - Change a variable value to update the theme of your page.
         2.2.7 Media queries for responsiveness
+        **Reference Links:**
             - MDN: Media Queries - https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries
             - W3Schools: CSS Media Queries - https://www.w3schools.com/css/css_rwd_mediaqueries.asp
             - CSS-Tricks: Media Queries for Standard Devices - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Write a media query to change the background color for screens smaller than 600px.
             - Hide or show elements based on device width using media queries.
         2.2.8 Specificity and cascade
+        **Reference Links:**
             - MDN: CSS Specificity - https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
             - W3Schools: CSS Specificity - https://www.w3schools.com/css/css_specificity.asp
             - CSS-Tricks: CSS Specificity Wars - https://css-tricks.com/specifics-on-css-specificity/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Experiment with conflicting styles and use specificity to control which rule applies.
             - Explain the cascade order for a set of CSS rules in your stylesheet.
 
