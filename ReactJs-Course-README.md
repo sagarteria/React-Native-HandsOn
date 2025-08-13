@@ -63,45 +63,45 @@ Below is a condensed 11-week timeline for the React.js Onboarding Course. Each w
 
 This section covers the essential web development fundamentals that are a pre-requisite for the React.js course. Learners should be comfortable with these topics before starting the course.
 
-**HTML (HyperText Markup Language):**
-    **Objective:**
+**Section: 1 - HTML (HyperText Markup Language):**
+    **1.1 Objective:**
         Learn the foundational building blocks of web pages and how to create accessible, semantic HTML structures.
-    **Topics & Goals:**
-        - Structure and semantics of web pages
-        - Common tags and attributes
-        - Forms and input elements
-        - Semantic tags (header, nav, main, footer)
-        - Tables for data display
-        - Embedding media (images, video, audio)
-        - Accessibility basics (alt text, ARIA attributes)
+    **1.2 Topics & Goals:**
+        1.2.1 Structure and semantics of web pages
+        1.2.2 Common tags and attributes
+        1.2.3 Forms and input elements
+        1.2.4 Semantic tags (header, nav, main, footer)
+        1.2.5 Tables for data display
+        1.2.6 Embedding media (images, video, audio)
+        1.2.7 Accessibility basics (alt text, ARIA attributes)
 
-**CSS (Cascading Style Sheets):**
-    **Objective:**
+**Section: 2 - CSS (Cascading Style Sheets):**
+    **2.1 Objective:**
         Understand how to style and layout web pages for modern, responsive, and visually appealing user interfaces.
-    **Topics & Goals:**
-        - Styling basics (selectors, properties, values)
-        - Box model and layout techniques
-        - Responsive design principles
-        - Flexbox and Grid for layout
-        - CSS transitions and basic animations
-        - CSS variables
-        - Media queries for responsiveness
-        - Specificity and cascade
+    **2.2 Topics & Goals:**
+        2.2.1 Styling basics (selectors, properties, values)
+        2.2.2 Box model and layout techniques
+        2.2.3 Responsive design principles
+        2.2.4 Flexbox and Grid for layout
+        2.2.5 CSS transitions and basic animations
+        2.2.6 CSS variables
+        2.2.7 Media queries for responsiveness
+        2.2.8 Specificity and cascade
 
-**JavaScript:**
-    **Objective:**
+**Section: 3 - JavaScript:**
+    **3.1 Objective:**
         Gain the skills to add interactivity, logic, and dynamic behavior to web pages using modern JavaScript.
-    **Topics & Goals:**
-        - Variables, data types, and operators
-        - Functions, loops, and conditionals
-        - Arrays and objects
-        - JSON basics
-        - DOM manipulation and event handling
-        - ES6+ features (let/const, arrow functions, template literals)
-        - Event listeners
-        - Scope and hoisting
-        - Basic error handling (try/catch)
-        - Basic debugging (console.log)
+    **3.2 Topics & Goals:**
+        3.2.1 Variables, data types, and operators
+        3.2.2 Functions, loops, and conditionals
+        3.2.3 Arrays and objects
+        3.2.4 JSON basics
+        3.2.5 DOM manipulation and event handling
+        3.2.6 ES6+ features (let/const, arrow functions, template literals)
+        3.2.7 Event listeners
+        3.2.8 Scope and hoisting
+        3.2.9 Basic error handling (try/catch)
+        3.2.10 Basic debugging (console.log)
 
 ---
 
