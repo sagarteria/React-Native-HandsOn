@@ -66,7 +66,7 @@ This section covers the essential web development fundamentals that are a pre-re
 **HTML (HyperText Markup Language):**
     **Objective:**
         Learn the foundational building blocks of web pages and how to create accessible, semantic HTML structures.
-    **Key Focus:**
+    **Topics & Goals:**
         - Structure and semantics of web pages
         - Common tags and attributes
         - Forms and input elements
@@ -78,7 +78,7 @@ This section covers the essential web development fundamentals that are a pre-re
 **CSS (Cascading Style Sheets):**
     **Objective:**
         Understand how to style and layout web pages for modern, responsive, and visually appealing user interfaces.
-    **Key Focus:**
+    **Topics & Goals:**
         - Styling basics (selectors, properties, values)
         - Box model and layout techniques
         - Responsive design principles
@@ -91,7 +91,7 @@ This section covers the essential web development fundamentals that are a pre-re
 **JavaScript:**
     **Objective:**
         Gain the skills to add interactivity, logic, and dynamic behavior to web pages using modern JavaScript.
-    **Key Focus:**
+    **Topics & Goals:**
         - Variables, data types, and operators
         - Functions, loops, and conditionals
         - Arrays and objects
