@@ -64,35 +64,44 @@ Below is a condensed 11-week timeline for the React.js Onboarding Course. Each w
 This section covers the essential web development fundamentals that are a pre-requisite for the React.js course. Learners should be comfortable with these topics before starting the course.
 
 **HTML (HyperText Markup Language):**
-  - Structure and semantics of web pages
-  - Common tags and attributes
-  - Forms and input elements
-  - Semantic tags (header, nav, main, footer)
-  - Tables for data display
-  - Embedding media (images, video, audio)
-  - Accessibility basics (alt text, ARIA attributes)
+    **Objective:**
+        Learn the foundational building blocks of web pages and how to create accessible, semantic HTML structures.
+    **Key Focus:**
+        - Structure and semantics of web pages
+        - Common tags and attributes
+        - Forms and input elements
+        - Semantic tags (header, nav, main, footer)
+        - Tables for data display
+        - Embedding media (images, video, audio)
+        - Accessibility basics (alt text, ARIA attributes)
 
 **CSS (Cascading Style Sheets):**
-  - Styling basics (selectors, properties, values)
-  - Box model and layout techniques
-  - Responsive design principles
-  - Flexbox and Grid for layout
-  - CSS transitions and basic animations
-  - CSS variables
-  - Media queries for responsiveness
-  - Specificity and cascade
+    **Objective:**
+        Understand how to style and layout web pages for modern, responsive, and visually appealing user interfaces.
+    **Key Focus:**
+        - Styling basics (selectors, properties, values)
+        - Box model and layout techniques
+        - Responsive design principles
+        - Flexbox and Grid for layout
+        - CSS transitions and basic animations
+        - CSS variables
+        - Media queries for responsiveness
+        - Specificity and cascade
 
 **JavaScript:**
-  - Variables, data types, and operators
-  - Functions, loops, and conditionals
-  - Arrays and objects
-  - JSON basics
-  - DOM manipulation and event handling
-  - ES6+ features (let/const, arrow functions, template literals)
-  - Event listeners
-  - Scope and hoisting
-  - Basic error handling (try/catch)
-  - Basic debugging (console.log)
+    **Objective:**
+        Gain the skills to add interactivity, logic, and dynamic behavior to web pages using modern JavaScript.
+    **Key Focus:**
+        - Variables, data types, and operators
+        - Functions, loops, and conditionals
+        - Arrays and objects
+        - JSON basics
+        - DOM manipulation and event handling
+        - ES6+ features (let/const, arrow functions, template literals)
+        - Event listeners
+        - Scope and hoisting
+        - Basic error handling (try/catch)
+        - Basic debugging (console.log)
 
 ---
 
@@ -323,72 +332,147 @@ Key Focus:
         3.2.1 Custom Hooks: Abstract business logic into reusable functions
             ○ Learn how to create and use custom hooks effectively
             ○ Explore real-world examples of custom hooks
+            ○ Reference Links:
+                - React Docs: Reusing Logic with Custom Hooks - https://react.dev/learn/reusing-logic-with-custom-hooks
+                - Reusing Logic with Custom Hooks - https://react.dev/learn/reusing-logic-with-custom-hooks
+                - DEV Community: How to Create Reusable Logic with Custom React Hooks - https://dev.to/chewryl/custom-hooks-in-react-56i1
         3.2.2 Performance Optimization: Use memoization and lazy loading to speed up rendering
             ○ Understand React.memo and useMemo for optimizing component rendering, including custom comparison functions
             ○ Optimize performance using useCallback and useMemo hooks
             ○ Implement code splitting using React.lazy and Suspense for dynamic imports
             ○ Implement lazy loading for components and assets
             ○ Explore techniques for reducing re-renders
+            ○ Reference Links:
+                - GeeksforGeeks: Optimizing Performance with useMemo and useCallback - https://www.geeksforgeeks.org/reactjs/optimizing-performance-with-usememo-and-usecallback-hooks/
+                - DigitalOcean: Avoid Performance Pitfalls in React - https://www.digitalocean.com/community/tutorials/how-to-avoid-performance-pitfalls-in-react-with-memo-usememo-and-usecallback
+                - DEV Community: Memoization, Lazy Loading, and Bundle Analysis - https://dev.to/naelawadallah/optimizing-react-performance-memoization-lazy-loading-and-bundle-analysis-4bcb
 
         3.2.3 Redux Toolkit:
             ○ Use Redux Toolkit for advanced Redux state management patterns and best practices
+            ○ Reference Links:
+                - Redux Toolkit Official Docs - https://redux-toolkit.js.org/
+                - Java Code Geeks: Managing State in React with Redux Toolkit - https://www.javacodegeeks.com/2025/06/managing-state-in-react-with-redux-toolkit-advanced-patterns.html
+                - freeCodeCamp: Learn Redux and Redux Toolkit - https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/
 
         3.2.4 GraphQL:
             ○ Integrate React with GraphQL APIs for efficient data querying
+            ○ Reference Links:
+                - Apollo Client Docs for React - https://www.apollographql.com/docs/react
+                - TanStack Query Docs: GraphQL Integration - https://tanstack.com/query/v4/docs/framework/react/graphql
+                - PiEmbSysTech: Integrating React Query with GraphQL - https://piembsystech.com/integrating-react-query-with-graphql-in-database-applications/
 
         3.2.5 Firebase:
             ○ Integrate React applications with third-party backends such as Firebase for authentication and real-time databases
+            ○ Reference Links:
+                - Firebase Docs: Get Started with Firebase in React - https://firebase.google.com/docs/web/setup
+                - DEV Community: Firebase Authentication and Firestore in React - https://dev.to/ayusharpcoder/how-to-use-firebase-for-authentication-and-database-in-react-1boa
 
         3.2.6 Internationalization (i18n) & Multi-language Support:
             ○ Implement internationalization (i18n) and localization in React apps
             ○ Use libraries like react-i18next or FormatJS for multi-language support
             ○ Set up language switchers and manage translations
+            ○ Reference Links:
+                - react-i18next Docs - https://react.i18next.com/
+                - DEV Community: Add i18n to React App Using i18next - https://dev.to/anilparmar/how-to-add-internationalization-i18n-to-a-react-app-using-i18next-2025-edition-3hkk
+                - freeCodeCamp: Build Multilingual Apps with i18n - https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/
 
         3.2.7 Webpack & Babel:
             ○ Understand manual React project setup using Webpack and Babel for custom configurations
+            ○ Reference Links:
+                - Webpack Docs: Getting Started - https://webpack.js.org/guides/getting-started/
+                - DEV Community: Setting Up React with Webpack and Babel - https://dev.to/frontendbytes/setting-up-react-with-webpack-and-babel-from-scratch-1elo
+                - FrontendUndefined: React Project Setup from Scratch - https://www.frontendundefined.com/posts/tutorials/react-project-scratch-webpack/
 
         3.2.8 TypeScript:
             ○ Use TypeScript with React for static type checking, including typing props, state, and components
+            ○ Reference Links:
+                - React + TypeScript Cheatsheets - https://react-typescript-cheatsheet.netlify.app/
+                - React Deep Dive: Typechecking with PropTypes, Flow and TypeScript - https://learn.react-js.dev/advanced-concepts/type-checking
+                - Codez Up: TypeScript Meets React: Best Practices for Type-Safe Components - https://codezup.com/typescript-meets-react-best-practices/
+                - StudyZone4U - Mastering React Static Type Checking: Safer Code with PropTypes and TypeScript - https://www.studyzone4u.com/post-details/mastering-react-static-type-checking-safer-code-with-proptypes-and-typescript
 
         3.2.9 Animations:
             ○ Add animations using libraries like Framer Motion or React Spring
+            ○ Reference Links:
+                - Framer Motion Docs - https://motion.dev/
+                - React Spring Docs - https://www.react-spring.dev/
+                - CodezUp: Mastering React Animations - https://codezup.com/mastering-react-animations-framer-motion-css/
+                - YouTube: Framer Motion Scroll Animation Masterclass - https://www.youtube.com/watch?v=PczQ0qSwe1E
+                - Saleh Mubashar: 5 Cool Animations in React - https://salehmubashar.com/blog/5-cool-animations-in-react-with-framer-motion
+                - YouTube: Framer Motion Layout Animations for Beginners - https://www.youtube.com/watch?v=wsl5FCmsC5E
 
         3.2.10 Testing (Jest & RTL): Write robust unit and integration tests
             ○ Learn the basics of Jest and React Testing Library
             ○ Write test cases for components, hooks, and Redux
             ○ Understand mocking and testing asynchronous code
             ○ (Optional) Use Enzyme for testing legacy class components
+            ○ Reference Links:
+                - React Testing Library Docs - https://testing-library.com/docs/react-testing-library/intro/
+                - Jest Docs - https://jestjs.io/docs/getting-started
+                - DEV Community: Unit Testing with Jest and RTL - https://dev.to/debajit13/unit-testing-react-components-with-jest-and-react-testing-library-3he
+                - CoderPad: Integration Testing with Jest and RTL - https://coderpad.io/blog/development/how-to-write-integration-tests-with-jest-and-react-testing-library/
 
         3.2.11 Server-Side Rendering (SSR): Understand how Next.js improves SEO and performance
             ○ Learn the basics of SSR and its benefits
             ○ Explore Next.js features like static site generation (SSG) and incremental static regeneration (ISR)
             ○ Implement SSR in a sample project
+            ○ Reference Links:
+                - Medium - How to Implement SSR(Server Side Rendering) in React 18- https://medium.com/simform-engineering/how-to-implement-ssr-server-side-rendering-in-react-18-e49bc43e9531
+                - LogRocket - A guide to streaming SSR with React 18 - https://blog.logrocket.com/streaming-ssr-with-react-18/
+                - Next.js Docs: Rendering Strategies - https://nextjs.org/learn/seo/rendering-strategies
+                - freeCodeCamp: SSR in Next.js for SEO - https://interviewbuzz.com/blog/seo-in-nextjs-boost-traffic-with-server-side-rendering-and-meta-optimization
+                - DEV Community: Mastering SSR, SSG, ISR, CSR in Next.js - https://dev.to/bdhamithkumara/mastering-ssg-ssr-isr-and-csr-in-nextjs-19bi
 
-        3.2.12 Animations (CSS transitions, libraries like Framer Motion):
-            ○ Basic introduction to adding animations in React
-
-        3.2.13 Portals:
+        3.2.12 Portals:
             ○ Render components outside the main DOM hierarchy using React Portals
+            ○ Reference Links:
+                - React Docs: Portals - https://legacy.reactjs.org/docs/portals.html
+                - DEV Community: Understanding React Portals - https://dev.to/abhay_yt_52a8e72b213be229/understanding-react-portals-how-to-render-outside-the-dom-hierarchy-158o
+                - GeeksforGeeks: React Portals Explained - https://www.geeksforgeeks.org/reactjs/how-do-react-portals-help-in-rendering-elements-outside-the-root-dom-node/
 
-        3.2.14 Higher-Order Components (HOC):
+        3.2.13 Higher-Order Components (HOC):
             ○ Implement HOCs for code reuse and abstraction
+            ○ Reference Links:
+                - React Docs: HOCs - https://legacy.reactjs.org/docs/higher-order-components.html
+                - Medium: Understanding Higher-Order Components (HOCs) in React — A Deep Dive - https://medium.com/@sonilamohanty26/understanding-higher-order-components-hocs-in-react-a-deep-dive-7e1077562050
+                - Geek4Geeks: ReactJS Higher-Order Components - https://www.geeksforgeeks.org/reactjs/react-js-higher-order-components/
+                - Open Replay - Understanding higher-order components in React with examples - https://blog.openreplay.com/understanding-hoc-react-examples/
 
-        3.2.15 Render Props:
+        3.2.14 Render Props:
             ○ Use the render props pattern for sharing code between components
+            ○ Reference Links:
+                - React Docs: Render Props - https://react.dev/reference/react/cloneElement#passing-data-with-a-render-prop
+                - GeeksforGeeks: ReactJS Render Props - https://www.geeksforgeeks.org/reactjs/react-js-render-props/
+                - Dev.To - The Render Props Pattern in React: A Flexible Approach to Component Reusability - https://dev.to/maximlogunov/the-render-props-pattern-in-react-a-flexible-approach-to-component-reusability-3imb
 
-        3.2.16 PureComponent:
-            ○ Use React.PureComponent for optimizing class-based components
+        3.2.15 PureComponent:
+            ○ Use PureComponent for optimizing class-based components
+            ○ Reference Links:
+                - React Docs: PureComponent - https://react.dev/reference/react/PureComponent
+                - GeeksforGeeks: Difference between React.Component and React.PureComponent? - https://www.geeksforgeeks.org/reactjs/difference-between-react-component-and-react-purecomponent/
+                - LogRocket: Pure components in React: Using PureComponent - https://blog.logrocket.com/pure-component-in-react/
+                - TutorialPoint - ReactJS - PureComponent Class - https://www.tutorialspoint.com/reactjs/reactjs_purecomponent_class.htm
 
-        3.2.17 StrictMode:
+        3.2.16 StrictMode:
             ○ Use React.StrictMode to identify unsafe lifecycle methods and potential issues
+            ○ Reference Links:
+                - React Docs: StrictMode - https://react.dev/reference/react/StrictMode
+                - GeeksforGeeks: What is StrictMode in React ? - https://www.geeksforgeeks.org/reactjs/what-is-strictmode-in-react/
+                - Dev.To: Strict Mode in React - https://dev.to/vishnusatheesh/strict-mode-in-react-b1o
+                - Tutorialspoint - ReactJS - Strict Mode - https://www.tutorialspoint.com/reactjs/reactjs_strict_mode.htm
+                - Medium - Understanding React’s Strict Mode: An Essential Tool for Cleaner Code - https://medium.com/@Roy.Wong/understanding-reacts-strict-mode-an-essential-tool-for-cleaner-code-efbe2112eb7d
 
-        3.2.18 Deployment:
+        3.2.17 Deployment:
             ○ Host projects confidently using Netlify, Vercel or GitHub Pages
             ○ Learn the steps for deploying React applications
             ○ Understand CI/CD pipelines for automated deployment
             ○ Use environment variables for configuration and secrets
             ○ Deploy React apps using Vercel or Netlify
             ○ Explore deployment strategies for different hosting platforms
+            ○ Reference Links:
+                - Netlify Docs: Deploy React - https://docs.netlify.com/
+                - Vercel Docs: Deploy React - https://vercel.com/docs
+                - Fenilsonani: Setting Up a CI/CD Pipeline for React.js: Automating Build, Test, and Deploy - https://fenilsonani.com/articles/setting-up-ci-cd-pipeline-for-react-js
 
 **Practice Assignments:**
     - Refactor a component to use a custom hook.
