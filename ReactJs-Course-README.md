@@ -68,52 +68,59 @@ This section covers the essential web development fundamentals that are a pre-re
         Learn the foundational building blocks of web pages and how to create accessible, semantic HTML structures.
     **1.2 Topics & Goals:**
         1.2.1 Structure and semantics of web pages
+        **Reference Links:**
             - MDN: HTML Introduction & Structure - https://developer.mozilla.org/en-US/docs/Web/HTML
             - freeCodeCamp: Semantic HTML Explained - https://www.freecodecamp.org/news/semantic-html5-elements/
             - W3Schools: HTML Page Structure - https://www.w3schools.com/html/html_intro.asp
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Create a simple HTML page with a header, main content, and footer. Use semantic tags appropriately.
             - Add a title and meta description to the page.
         1.2.2 Common tags and attributes
+        **Reference Links:**
             - MDN: HTML Elements Reference - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
             - W3Schools: HTML Tags List - https://www.w3schools.com/tags/default.asp
             - HTML.com: Common HTML Tags - https://html.com/tags/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - List five commonly used HTML tags and write a sample usage for each.
             - Add alt text to an image and use at least three different attributes in a tag.
         1.2.3 Forms and input elements
+        **Reference Links:**
             - MDN: HTML Forms Guide - https://developer.mozilla.org/en-US/docs/Learn/Forms
             - W3Schools: HTML Forms - https://www.w3schools.com/html/html_forms.asp
             - freeCodeCamp: HTML Forms Tutorial - https://www.freecodecamp.org/news/how-to-use-html-forms/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Build a contact form with input fields for name, email, and message. Add a submit button.
             - Use label and input elements, and ensure accessibility with proper attributes.
         1.2.4 Semantic tags (header, nav, main, footer)
+        **Reference Links:**
             - MDN: Semantic HTML Elements - https://developer.mozilla.org/en-US/docs/Glossary/Semantics
             - W3Schools: Semantic Elements - https://www.w3schools.com/html/html5_semantic_elements.asp
             - HTML.com: Semantic Tags - https://html.com/semantic-markup/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Refactor a non-semantic HTML layout to use semantic tags (header, nav, main, footer).
             - Explain the benefits of semantic tags for accessibility and SEO.
         1.2.5 Tables for data display
+        **Reference Links:**
             - MDN: HTML Tables - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
             - W3Schools: HTML Tables - https://www.w3schools.com/html/html_tables.asp
             - freeCodeCamp: How to Build Tables in HTML - https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Create a table to display a list of products (name, price, category).
             - Add a caption and use thead, tbody, and tfoot elements.
         1.2.6 Embedding media (images, video, audio)
+        **Reference Links:**
             - MDN: Embedding Images, Video, Audio - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding
             - W3Schools: HTML Media - https://www.w3schools.com/html/html_media.asp
             - HTML.com: Embedding Media - https://html.com/media/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Embed an image, a video, and an audio file in a web page.
             - Use controls for video and audio, and add alt text for images.
         1.2.7 Accessibility basics (alt text, ARIA attributes)
+        **Reference Links:**
             - MDN: Accessibility - https://developer.mozilla.org/en-US/docs/Web/Accessibility
             - W3Schools: HTML Accessibility - https://www.w3schools.com/accessibility/index.php
             - WebAIM: Alternative Text Basics - https://webaim.org/techniques/alttext/
-            **Practice Assignment:**
+        **Practice Assignment:**
             - Add alt text to all images and use ARIA attributes in a form.
             - Test your page with a screen reader or accessibility tool and note improvements.
 
@@ -187,48 +194,78 @@ This section covers the essential web development fundamentals that are a pre-re
             - MDN: JavaScript Basics - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
             - W3Schools: JavaScript Data Types - https://www.w3schools.com/js/js_datatypes.asp
             - freeCodeCamp: JavaScript Variables and Data Types - https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/
+                **Practice Assignment:**
+                - Declare variables using let, const, and var. Assign different data types and use basic operators.
+                - Write a function to add two numbers and display the result.
         3.2.2 Functions, loops, and conditionals
             - MDN: Functions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
             - MDN: Loops and Iteration - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
             - W3Schools: JavaScript Functions - https://www.w3schools.com/js/js_functions.asp
             - W3Schools: JavaScript Loops - https://www.w3schools.com/js/js_loop_for.asp
             - W3Schools: JavaScript If...Else - https://www.w3schools.com/js/js_if_else.asp
+                **Practice Assignment:**
+                - Write a function that checks if a number is even or odd using conditionals.
+                - Loop through an array and print each value to the console.
         3.2.3 Arrays and objects
             - MDN: Arrays - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
             - MDN: Objects - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
             - W3Schools: JavaScript Arrays - https://www.w3schools.com/js/js_arrays.asp
             - W3Schools: JavaScript Objects - https://www.w3schools.com/js/js_objects.asp
+                **Practice Assignment:**
+                - Create an array of colors and add/remove items using array methods.
+                - Create an object to represent a person (name, age, city) and access its properties.
         3.2.4 JSON basics
             - MDN: JSON - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
             - W3Schools: JSON Introduction - https://www.w3schools.com/js/js_json_intro.asp
             - freeCodeCamp: What is JSON? - https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
+                **Practice Assignment:**
+                - Convert a JavaScript object to a JSON string and back.
+                - Parse a sample JSON response and access its data.
         3.2.5 DOM manipulation and event handling
             - MDN: Introduction to the DOM - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
             - MDN: Using the Document Object Model - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Using_the_Document_Object_Model
             - W3Schools: JavaScript HTML DOM - https://www.w3schools.com/js/js_htmldom.asp
             - freeCodeCamp: JavaScript DOM Tutorial - https://www.freecodecamp.org/news/dom-manipulation-in-javascript/
+                **Practice Assignment:**
+                - Select an element by ID and change its text content using JavaScript.
+                - Add a button to your page and display an alert when it is clicked.
         3.2.6 ES6+ features (let/const, arrow functions, template literals)
             - MDN: ES6 Features - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
             - MDN: Arrow Functions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
             - MDN: Template Literals - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
             - W3Schools: ES6 Tutorial - https://www.w3schools.com/js/js_es6.asp
+                **Practice Assignment:**
+                - Rewrite a regular function as an arrow function.
+                - Use template literals to create a greeting message with variables.
         3.2.7 Event listeners
             - MDN: EventTarget.addEventListener() - https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
             - W3Schools: JavaScript Events - https://www.w3schools.com/js/js_events.asp
             - freeCodeCamp: JavaScript Event Listeners Explained - https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/
+                **Practice Assignment:**
+                - Add a click event listener to a button and log a message to the console.
+                - Add a mouseover event to change the color of an element when hovered.
         3.2.8 Scope and hoisting
             - MDN: Variable Scope - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#variable_scope
             - MDN: Hoisting - https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
             - W3Schools: JavaScript Scope - https://www.w3schools.com/js/js_scope.asp
             - W3Schools: JavaScript Hoisting - https://www.w3schools.com/js/js_hoisting.asp
+                **Practice Assignment:**
+                - Demonstrate variable scope by declaring variables inside and outside a function.
+                - Show the effect of hoisting with a function and variable declaration.
         3.2.9 Basic error handling (try/catch)
             - MDN: Error Handling - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements
             - W3Schools: JavaScript Errors - https://www.w3schools.com/js/js_errors.asp
             - freeCodeCamp: JavaScript Error Handling - https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/
+                **Practice Assignment:**
+                - Write a function that throws an error for invalid input and catches it using try/catch.
+                - Log the error message to the console.
         3.2.10 Basic debugging (console.log)
             - MDN: Debugging JavaScript - https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Debugging_JavaScript
             - W3Schools: JavaScript Debugging - https://www.w3schools.com/js/js_debugging.asp
             - freeCodeCamp: How to Debug JavaScript - https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/
+                **Practice Assignment:**
+                - Use console.log to debug a function and display variable values.
+                - Find and fix a bug in a sample code snippet using browser DevTools.
 
 **Section: 4 - TypeScript:**
     **4.1 Objective:**
@@ -238,41 +275,71 @@ This section covers the essential web development fundamentals that are a pre-re
             - TypeScript Official: Introduction - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
             - freeCodeCamp: What is TypeScript? - https://www.freecodecamp.org/news/what-is-typescript/
             - W3Schools: TypeScript Overview - https://www.w3schools.com/typescript/index.php
+                **Practice Assignment:**
+                - Write a short note on why TypeScript is useful for web development.
+                - Install TypeScript in a project and compile a simple .ts file.
         4.2.2 Type annotations and basic types (string, number, boolean, array, object)
             - TypeScript Official: Basic Types - https://www.typescriptlang.org/docs/handbook/basic-types.html
             - W3Schools: TypeScript Types - https://www.w3schools.com/typescript/typescript_simple_types.php
             - TutorialsPoint: TypeScript Types - https://www.tutorialspoint.com/typescript/typescript_types.htm
+                **Practice Assignment:**
+                - Declare variables with explicit types (string, number, boolean, array, object).
+                - Write a function that takes typed parameters and returns a typed value.
         4.2.3 Interfaces and type aliases
             - TypeScript Official: Interfaces - https://www.typescriptlang.org/docs/handbook/interfaces.html
             - TypeScript Official: Type Aliases - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases
             - W3Schools: TypeScript Interfaces - https://www.w3schools.com/typescript/typescript_aliases_and_interfaces.php
+                **Practice Assignment:**
+                - Create an interface for a User object and use it in a function.
+                - Define a type alias for a union type and use it in a variable declaration.
         4.2.4 Functions and parameter typing
             - TypeScript Official: Functions - https://www.typescriptlang.org/docs/handbook/functions.html
             - TutorialsTeacher: TypeScript Functions - https://www.tutorialsteacher.com/typescript/typescript-function
             - W3Schools: TypeScript Functions - https://www.w3schools.com/typescript/typescript_functions.php
+                **Practice Assignment:**
+                - Write a function with typed parameters and a typed return value.
+                - Use optional and default parameters in a TypeScript function.
         4.2.5 Classes and object-oriented features
             - TypeScript Official: Classes - https://www.typescriptlang.org/docs/handbook/classes.html
             - TutorialsTeacher: TypeScript Classes - https://www.tutorialsteacher.com/typescript/typescript-class
             - W3Schools: TypeScript Classes - https://www.w3schools.com/typescript/typescript_classes.php
+                **Practice Assignment:**
+                - Create a class with properties and methods, and instantiate it.
+                - Use access modifiers (public, private, protected) in a class.
         4.2.6 Type inference and type assertions
             - TypeScript Official: Type Inference - https://www.typescriptlang.org/docs/handbook/type-inference.html
             - TypeScript Official: Type Assertions - https://www.typescriptlang.org/docs/handbook/basic-types.html#type-assertions
             - TutorialsTeacher: TypeScript Type Assertion - https://www.tutorialsteacher.com/typescript/type-assertion
+                **Practice Assignment:**
+                - Demonstrate type inference by declaring variables without explicit types.
+                - Use type assertions to convert a variable from one type to another.
         4.2.7 Union, intersection, and literal types
             - TypeScript Official: Union Types - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
             - TypeScript Official: Intersection Types - https://www.typescriptlang.org/docs/handbook/advanced-types.html#intersection-types
             - TutorialsTeacher: TypeScript Union Types - https://www.tutorialsteacher.com/typescript/typescript-union
+                **Practice Assignment:**
+                - Create a variable that can hold multiple types using a union type.
+                - Define an intersection type and use it in an object.
         4.2.8 Working with modules and imports
             - TypeScript Official: Modules - https://www.typescriptlang.org/docs/handbook/modules.html
             - Digitalocean: How To Use Modules in TypeScript - https://www.digitalocean.com/community/tutorials/how-to-use-modules-in-typescript
+                **Practice Assignment:**
+                - Create two TypeScript files and import/export a function between them.
+                - Use ES6 import/export syntax in a TypeScript project.
         4.2.9 TypeScript with React (JSX, props, state)
             - React + TypeScript Cheatsheets - https://react-typescript-cheatsheet.netlify.app/
             - TypeScript Official: JSX - https://www.typescriptlang.org/docs/handbook/jsx.html
             - freeCodeCamp: Using TypeScript with React - https://www.freecodecamp.org/news/use-typescript-with-react/
+                **Practice Assignment:**
+                - Create a simple React component in TypeScript with typed props and state.
+                - Refactor a JavaScript React component to TypeScript and add type annotations.
         4.2.10 Tooling: tsconfig, compiler, and IDE support
             - TypeScript Official: tsconfig.json - https://www.typescriptlang.org/tsconfig
             - TypeScript Official: Compiler Options - https://www.typescriptlang.org/docs/handbook/compiler-options.html
             - Visual Studio Code: TypeScript in VS Code - https://code.visualstudio.com/docs/languages/typescript
+                **Practice Assignment:**
+                - Create a tsconfig.json file and configure basic compiler options.
+                - Use VS Code to write and debug TypeScript code with IntelliSense and error checking.
 
 ---
 
