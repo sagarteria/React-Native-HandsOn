@@ -185,6 +185,50 @@ This section covers the essential web development fundamentals that are a pre-re
             - W3Schools: JavaScript Debugging - https://www.w3schools.com/js/js_debugging.asp
             - freeCodeCamp: How to Debug JavaScript - https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/
 
+**Section: 4 - TypeScript:**
+    **4.1 Objective:**
+        Learn the basics of TypeScript and how to use it for type safety, maintainability, and scalability in modern web applications.
+    **4.2 Topics & Goals:**
+        4.2.1 What is TypeScript? Why use it?
+            - TypeScript Official: Introduction - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+            - freeCodeCamp: What is TypeScript? - https://www.freecodecamp.org/news/what-is-typescript/
+            - W3Schools: TypeScript Overview - https://www.w3schools.com/typescript/index.php
+        4.2.2 Type annotations and basic types (string, number, boolean, array, object)
+            - TypeScript Official: Basic Types - https://www.typescriptlang.org/docs/handbook/basic-types.html
+            - W3Schools: TypeScript Types - https://www.w3schools.com/typescript/typescript_simple_types.php
+            - TutorialsPoint: TypeScript Types - https://www.tutorialspoint.com/typescript/typescript_types.htm
+        4.2.3 Interfaces and type aliases
+            - TypeScript Official: Interfaces - https://www.typescriptlang.org/docs/handbook/interfaces.html
+            - TypeScript Official: Type Aliases - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-aliases
+            - W3Schools: TypeScript Interfaces - https://www.w3schools.com/typescript/typescript_aliases_and_interfaces.php
+        4.2.4 Functions and parameter typing
+            - TypeScript Official: Functions - https://www.typescriptlang.org/docs/handbook/functions.html
+            - TutorialsTeacher: TypeScript Functions - https://www.tutorialsteacher.com/typescript/typescript-function
+            - W3Schools: TypeScript Functions - https://www.w3schools.com/typescript/typescript_functions.php
+        4.2.5 Classes and object-oriented features
+            - TypeScript Official: Classes - https://www.typescriptlang.org/docs/handbook/classes.html
+            - TutorialsTeacher: TypeScript Classes - https://www.tutorialsteacher.com/typescript/typescript-class
+            - W3Schools: TypeScript Classes - https://www.w3schools.com/typescript/typescript_classes.php
+        4.2.6 Type inference and type assertions
+            - TypeScript Official: Type Inference - https://www.typescriptlang.org/docs/handbook/type-inference.html
+            - TypeScript Official: Type Assertions - https://www.typescriptlang.org/docs/handbook/basic-types.html#type-assertions
+            - TutorialsTeacher: TypeScript Type Assertion - https://www.tutorialsteacher.com/typescript/type-assertion
+        4.2.7 Union, intersection, and literal types
+            - TypeScript Official: Union Types - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
+            - TypeScript Official: Intersection Types - https://www.typescriptlang.org/docs/handbook/advanced-types.html#intersection-types
+            - TutorialsTeacher: TypeScript Union Types - https://www.tutorialsteacher.com/typescript/typescript-union
+        4.2.8 Working with modules and imports
+            - TypeScript Official: Modules - https://www.typescriptlang.org/docs/handbook/modules.html
+            - Digitalocean: How To Use Modules in TypeScript - https://www.digitalocean.com/community/tutorials/how-to-use-modules-in-typescript
+        4.2.9 TypeScript with React (JSX, props, state)
+            - React + TypeScript Cheatsheets - https://react-typescript-cheatsheet.netlify.app/
+            - TypeScript Official: JSX - https://www.typescriptlang.org/docs/handbook/jsx.html
+            - freeCodeCamp: Using TypeScript with React - https://www.freecodecamp.org/news/use-typescript-with-react/
+        4.2.10 Tooling: tsconfig, compiler, and IDE support
+            - TypeScript Official: tsconfig.json - https://www.typescriptlang.org/tsconfig
+            - TypeScript Official: Compiler Options - https://www.typescriptlang.org/docs/handbook/compiler-options.html
+            - Visual Studio Code: TypeScript in VS Code - https://code.visualstudio.com/docs/languages/typescript
+
 ---
 
 ## Section 1: Getting Started with React
